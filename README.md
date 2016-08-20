@@ -9,12 +9,14 @@ A collection of OSX/iOS security related resources
 * [Mac Virus](https://macviruscom.wordpress.com)
 * [Mac Security](http://macsecurity.net/news/)
 * [OSX Daily](http://osxdaily.com/) - Not secutiy-specific but it contains jailbreaking information which has security implications
+* [Intego Mac Security Blog](https://www.intego.com/mac-security-blog)
 
 ## Malware sources
 
 1. [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
 * [Objective-See](https://objective-see.com/malware.html)
 * [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
+* [Manwe mac malware feed](http://macmalware.manwe.io)
 
 ## Reverse engineering
 
@@ -31,3 +33,4 @@ A collection of OSX/iOS security related resources
 * [onyx-the-black-cat](https://github.com/gdbinit/onyx-the-black-cat) - kernel module for OSX to defeat anti-debugging protection
 * [create-dmg](https://github.com/andreyvit/create-dmg) - CLI utility for creating and modifying DMG files
 * [dmg2iso](https://sourceforge.net/projects/dmg2iso/?source=typ_redirect) - convert dmg to iso
+* [Infosec Homebrew](https://github.com/kai5263499/homebrew-infosec) - Homebrew tap for security-related utilities

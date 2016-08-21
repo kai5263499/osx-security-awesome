@@ -38,12 +38,14 @@ A collection of OSX/iOS security related resources
 * [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101)
 * [Reverse engineering OSX](https://reverse.put.as/)
 * [OSX crackmes](https://reverse.put.as/crackmes/) - A collection of puzzles to test your reverse engineering skills
+* [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
 
 ## Presentations
 1. [Writing Bad @$$ Malware for OSX](http://www.slideshare.net/Synack/writing-bad-malware-for-os-x)
 * [Hack Mac OSX](https://dl.dropboxusercontent.com/u/31995154/HackMACOS-PUB/prez/HackMacOSX-GSDays2012.pdf)
 * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
 * [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs) - Fuzzing and exploiting OSX kernel bugs
+* [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
 
 ## Useful tools
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange

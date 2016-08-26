@@ -36,7 +36,7 @@ A collection of OSX/iOS security related resources
 
 1. [New OS X Book](http://www.newosxbook.com/)
 * [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101)
-* [The iPhone Wiki](https://www.theiphonewiki.com)
+* [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page)
 * [Reverse engineering OSX](https://reverse.put.as/)
 * [OSX crackmes](https://reverse.put.as/crackmes/) - A collection of puzzles to test your reverse engineering skills
 * [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)

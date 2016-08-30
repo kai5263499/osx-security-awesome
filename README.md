@@ -47,6 +47,7 @@ A collection of OSX/iOS security related resources
 * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
 * [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs) - Fuzzing and exploiting OSX kernel bugs
 * [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
+* [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
 
 ## Useful tools
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange

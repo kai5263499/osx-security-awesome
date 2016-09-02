@@ -31,6 +31,7 @@ A collection of OSX/iOS security related resources
 * [Inception](https://github.com/carmaa/inception) - Physical memory manipulation
 * [Volafox](https://github.com/n0fate/volafox) - Memory analysis toolkit
 * [Mac4n6](https://github.com/pstirparo/mac4n6) - Collection of OSX and iOS artifacts
+* [Keychain analysis with Mac OSX Forensics](https://forensic.n0fate.com/wp-content/uploads/2012/07/Keychain-Analysis-with-Mac-OS-X-Memory-Forensics.pdf)
 
 ## Reverse engineering
 

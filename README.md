@@ -60,4 +60,5 @@ A collection of OSX/iOS security related resources
 * [dmg2iso](https://sourceforge.net/projects/dmg2iso/?source=typ_redirect) - convert dmg to iso
 * [Infosec Homebrew](https://github.com/kai5263499/homebrew-infosec) - Homebrew tap for security-related utilities
 * [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Collection of really useful shell commands
-* * [Keychain dump](https://github.com/juuso/keychaindump) - Utility for dumping keychain credentials
+* [Keychain dump](https://github.com/juuso/keychaindump) - Utility for dumping keychain credentials
+* [KnockKnock](https://objective-see.com/products/knockknock.html) - Utility for listing startup items. Also includes VirusTotal information

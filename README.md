@@ -49,6 +49,8 @@ A collection of OSX/iOS security related resources
 * [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs) - Fuzzing and exploiting OSX kernel bugs
 * [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
 * [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
+* [Practical iOS App Hacking](https://papers.put.as/papers/ios/2012/Mathieu-RENARD-GreHACK-Practical-iOS-App-Hacking.pdf)
+* [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 
 ## Useful tools
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange

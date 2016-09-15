@@ -43,7 +43,7 @@ A collection of OSX/iOS security related resources
 * [OSX crackmes](https://reverse.put.as/crackmes/) - A collection of puzzles to test your reverse engineering skills
 * [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
 
-## Presentations
+## Presentations and Papers
 1. [Writing Bad @$$ Malware for OSX](http://www.slideshare.net/Synack/writing-bad-malware-for-os-x)
 * [Hack Mac OSX](https://dl.dropboxusercontent.com/u/31995154/HackMACOS-PUB/prez/HackMacOSX-GSDays2012.pdf)
 * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
@@ -52,8 +52,9 @@ A collection of OSX/iOS security related resources
 * [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
 * [Practical iOS App Hacking](https://papers.put.as/papers/ios/2012/Mathieu-RENARD-GreHACK-Practical-iOS-App-Hacking.pdf)
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
+* [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
 
-## Useful tools
+## Useful tools and guides
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
 * [MacDBG](https://github.com/blankwall/MacDBG) - C and Python debugging framework for OSX
 * [bitcode_retriever](https://github.com/AlexDenisov/bitcode_retriever) - store and retrieve bitcode from Mach-O binary
@@ -66,3 +67,7 @@ A collection of OSX/iOS security related resources
 * [Keychain dump](https://github.com/juuso/keychaindump) - Dump keychain credentials
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - Listing startup items. Also includes VirusTotal information
 * [Lingon-X](https://www.peterborgapps.com/lingon/) - GUI for launchd
+* [Hopper](https://www.hopperapp.com) - Excellent OSX debugger (requires license)
+* [Symhash](https://github.com/threatstream/symhash) - Python utility for generating imphash fingerprints for OSX binaries
+* [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
+* [KisMac2](https://igrsoft.com/en/kismac2/) - Wireless scanning and packet capturing

@@ -19,6 +19,7 @@ A collection of OSX/iOS security related resources
 * [Run any command in a sandbox](https://www.davd.eu/posts/os-x-run-any-command-in-a-sandbox/)
 * [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
+* [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
 
 ## Malware sources
 
@@ -37,6 +38,7 @@ A collection of OSX/iOS security related resources
 * [Mac4n6](https://github.com/pstirparo/mac4n6) - Collection of OSX and iOS artifacts
 * [Keychain analysis with Mac OSX Forensics](https://forensic.n0fate.com/wp-content/uploads/2012/07/Keychain-Analysis-with-Mac-OS-X-Memory-Forensics.pdf)
 * [OSX Collector](https://github.com/Yelp/osxcollector) - Forensics utility developed by Yelp
+* [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E) - OSX incident response at GitHub
 
 ## Reverse engineering
 

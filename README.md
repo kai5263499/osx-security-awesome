@@ -64,7 +64,7 @@ A collection of OSX/iOS security related resources
 * [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
 
 ## Virus and explits writeups
-1. [Flashback](http://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
+1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 * [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
 * [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
 * [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/) - Firmware bootkit
@@ -73,7 +73,7 @@ A collection of OSX/iOS security related resources
 * [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 * [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
 * [Mac Defender](http://macsecurity.net/view/79/)
-* [Wire Lurker](http://macsecurity.net/view/79/)
+* [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
 * [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/) - First OSX ransomware
 * [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
 * [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://sentinelone.com/blogs/reverse-engineering-mac-os-x/)

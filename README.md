@@ -60,6 +60,21 @@ A collection of OSX/iOS security related resources
 * [Practical iOS App Hacking](https://papers.put.as/papers/ios/2012/Mathieu-RENARD-GreHACK-Practical-iOS-App-Hacking.pdf)
 * [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
 * [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](http://www.slideshare.net/nosillacast/security-on-the-mac)
+* [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
+
+## Virus and explits writeups
+1. [Flashback](http://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
+* [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
+* [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
+* [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/) - Firmware bootkit
+* [Mokes](http://thehackernews.com/2016/09/cross-platform-malware.html)
+* [MacKeeper](http://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
+* [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
+* [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
+* [Mac Defender](http://macsecurity.net/view/79/)
+* [Wire Lurker](http://macsecurity.net/view/79/)
+* [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/) - First OSX ransomware
+* [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
 
 ## Useful tools and guides
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange

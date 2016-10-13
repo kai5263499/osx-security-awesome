@@ -40,6 +40,8 @@ A collection of OSX/iOS security related resources
 * [Keychain analysis with Mac OSX Forensics](https://forensic.n0fate.com/wp-content/uploads/2012/07/Keychain-Analysis-with-Mac-OS-X-Memory-Forensics.pdf)
 * [OSX Collector](https://github.com/Yelp/osxcollector) - Forensics utility developed by Yelp
 * [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E) - OSX incident response at GitHub
+* [iOS Instrumentation without jailbreaking](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/) - How to debug an iOS application that you didn't create
+* [Certo](https://www.certosoftware.com/) - Paid service for analyzing the iTunes backup of your iOS device
 
 ## Reverse engineering
 
@@ -62,6 +64,8 @@ A collection of OSX/iOS security related resources
 * [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
 * [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](http://www.slideshare.net/nosillacast/security-on-the-mac)
 * [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
+* [When Macs Get Hacked](https://digital-forensics.sans.org/summit-archives/2012/when-macs-get-hacked.pdf)
+* [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
 
 ## Virus and explits writeups
 1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)

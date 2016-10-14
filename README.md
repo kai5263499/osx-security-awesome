@@ -64,7 +64,6 @@ A collection of OSX/iOS security related resources
 * [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
 * [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](http://www.slideshare.net/nosillacast/security-on-the-mac)
 * [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
-* [When Macs Get Hacked](https://digital-forensics.sans.org/summit-archives/2012/when-macs-get-hacked.pdf)
 * [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
 
 ## Virus and explits writeups

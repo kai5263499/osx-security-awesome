@@ -65,6 +65,9 @@ A collection of OSX/iOS security related resources
 * [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](http://www.slideshare.net/nosillacast/security-on-the-mac)
 * [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
 * [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
+* [Don't trust your eye, Apple graphics is compromised](https://speakerdeck.com/marcograss/dont-trust-your-eye-apple-graphics-is-compromised), security flaws in IOKit's graphics acceleration that lead to exploitation from the browser
+* [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](http://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
+* [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
 
 ## Virus and explits writeups
 1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
@@ -97,3 +100,4 @@ A collection of OSX/iOS security related resources
 * [Hopper](https://www.hopperapp.com/) - Excellent OSX debugger (requires license)
 * [Symhash](https://github.com/threatstream/symhash) - Python utility for generating imphash fingerprints for OSX binaries
 * [KisMac2](https://igrsoft.com/en/kismac2/) - Wireless scanning and packet capturing
+* [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode

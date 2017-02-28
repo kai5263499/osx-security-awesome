@@ -13,10 +13,10 @@ A collection of OSX/iOS security related resources
 
 ## Hardening
 
-1. [Launchd](http://launchd.info/) - Everything you need to know about lunachd
+1. [Launchd](http://www.launchd.info/) - Everything you need to know about lunachd
 * [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
 * [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
-* [Run any command in a sandbox](https://www.davd.eu/posts/os-x-run-any-command-in-a-sandbox/)
+* [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
 * [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 * [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
@@ -53,7 +53,7 @@ A collection of OSX/iOS security related resources
 * [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
 
 ## Presentations and Papers
-1. [Writing Bad @$$ Malware for OSX](http://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
+1. [Writing Bad @$$ Malware for OSX](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
 * [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
 * [Hack Mac OSX](https://dl.dropboxusercontent.com/u/31995154/HackMACOS-PUB/prez/HackMacOSX-GSDays2012.pdf)
 * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
@@ -62,11 +62,11 @@ A collection of OSX/iOS security related resources
 * [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
 * [Practical iOS App Hacking](https://papers.put.as/papers/ios/2012/Mathieu-RENARD-GreHACK-Practical-iOS-App-Hacking.pdf)
 * [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
-* [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](http://www.slideshare.net/nosillacast/security-on-the-mac)
+* [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](https://www.slideshare.net/nosillacast/security-on-the-mac)
 * [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
 * [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
 * [Don't trust your eye, Apple graphics is compromised](https://speakerdeck.com/marcograss/dont-trust-your-eye-apple-graphics-is-compromised), security flaws in IOKit's graphics acceleration that lead to exploitation from the browser
-* [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](http://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
+* [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](https://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
 * [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
 * [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)
 

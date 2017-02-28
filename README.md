@@ -68,8 +68,9 @@ A collection of OSX/iOS security related resources
 * [Don't trust your eye, Apple graphics is compromised](https://speakerdeck.com/marcograss/dont-trust-your-eye-apple-graphics-is-compromised), security flaws in IOKit's graphics acceleration that lead to exploitation from the browser
 * [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](http://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
 * [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
+* [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)
 
-## Virus and explits writeups
+## Virus and exploit writeups
 1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 * [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
 * [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
@@ -83,6 +84,10 @@ A collection of OSX/iOS security related resources
 * [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/) - First OSX ransomware
 * [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
 * [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://sentinelone.com/blogs/reverse-engineering-mac-os-x/)
+* [XAgent Mac Malware Used In APT-28](https://labs.bitdefender.com/2017/02/new-xagent-mac-malware-linked-with-the-apt28/) - [Samples](http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html)
+* [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
+* [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
+* [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 
 ## Useful tools and guides
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
@@ -101,3 +106,4 @@ A collection of OSX/iOS security related resources
 * [Symhash](https://github.com/threatstream/symhash) - Python utility for generating imphash fingerprints for OSX binaries
 * [KisMac2](https://igrsoft.com/en/kismac2/) - Wireless scanning and packet capturing
 * [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
+* [Empyre](https://github.com/EmpireProject/EmPyre) - Post exploitation agent

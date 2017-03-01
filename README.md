@@ -107,3 +107,14 @@ A collection of OSX/iOS security related resources
 * [KisMac2](https://igrsoft.com/en/kismac2/) - Wireless scanning and packet capturing
 * [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
 * [Empyre](https://github.com/EmpireProject/EmPyre) - Post exploitation agent
+* [Bella](https://github.com/manwhoami/Bella) - Post exploitation agent
+
+## Worth following on Twitter
+1. [@patrickwardle](https://twitter.com/patrickwardle)
+* [@objective_see](https://twitter.com/objective_see)
+* [@0xAmit](https://twitter.com/0xAmit)
+* [@Morpheus______](https://twitter.com/Morpheus______)
+* [@JZdziarski](https://twitter.com/JZdziarski)
+* [@osxreverser](https://twitter.com/osxreverser)
+* [@liucoj](https://twitter.com/liucoj)
+* [@osxdaily](https://twitter.com/osxdaily)

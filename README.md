@@ -69,6 +69,8 @@ A collection of OSX/iOS security related resources
 * [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](https://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c)
 * [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
 * [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)
+* [Attacking OSX for fun and profit tool set limiations frustration and table flipping Dan Tentler](https://www.youtube.com/watch?v=9T_2KYox9Us) - [Follow-up from target](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
+* [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
 
 ## Virus and exploit writeups
 1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
@@ -108,6 +110,8 @@ A collection of OSX/iOS security related resources
 * [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
 * [Empyre](https://github.com/EmpireProject/EmPyre) - Post exploitation agent
 * [Bella](https://github.com/manwhoami/Bella) - Post exploitation agent
+* [Platypus](http://sveinbjorn.org/platypus) - GUI for generating .app bundles
+* [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers
 
 ## Worth following on Twitter
 1. [@patrickwardle](https://twitter.com/patrickwardle)

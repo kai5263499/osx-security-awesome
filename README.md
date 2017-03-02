@@ -71,6 +71,7 @@ A collection of OSX/iOS security related resources
 * [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)
 * [Attacking OSX for fun and profit tool set limiations frustration and table flipping Dan Tentler](https://www.youtube.com/watch?v=9T_2KYox9Us) - [Follow-up from target](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
 * [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
+* [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
 
 ## Virus and exploit writeups
 1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
@@ -112,6 +113,7 @@ A collection of OSX/iOS security related resources
 * [Bella](https://github.com/manwhoami/Bella) - Post exploitation agent
 * [Platypus](http://sveinbjorn.org/platypus) - GUI for generating .app bundles
 * [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers
+* [PoisonTap](https://github.com/samyk/poisontap)
 
 ## Worth following on Twitter
 1. [@patrickwardle](https://twitter.com/patrickwardle)

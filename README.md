@@ -91,6 +91,7 @@ A collection of OSX/iOS security related resources
 * [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
 * [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
 * [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
+* [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
 
 ## Useful tools and guides
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange

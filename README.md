@@ -51,6 +51,7 @@ A collection of OSX/iOS security related resources
 * [Reverse engineering OSX](https://reverse.put.as/)
 * [OSX crackmes](https://reverse.put.as/crackmes/) - A collection of puzzles to test your reverse engineering skills
 * [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
+* [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
 
 ## Presentations and Papers
 1. [Writing Bad @$$ Malware for OSX](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
@@ -110,11 +111,15 @@ A collection of OSX/iOS security related resources
 * [Symhash](https://github.com/threatstream/symhash) - Python utility for generating imphash fingerprints for OSX binaries
 * [KisMac2](https://igrsoft.com/en/kismac2/) - Wireless scanning and packet capturing
 * [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
-* [Empyre](https://github.com/EmpireProject/EmPyre) - Post exploitation agent
-* [Bella](https://github.com/manwhoami/Bella) - Post exploitation agent
 * [Platypus](http://sveinbjorn.org/platypus) - GUI for generating .app bundles
 * [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers
 * [PoisonTap](https://github.com/samyk/poisontap)
+
+## Remote Access Toolkits
+1. [Empyre](https://github.com/EmpireProject/EmPyre)
+* [Bella](https://github.com/manwhoami/Bella)
+* [Stitch](https://nathanlopez.github.io/Stitch/)
+* [Pupy](https://github.com/n1nj4sec/pupy)
 
 ## Worth following on Twitter
 1. [@patrickwardle](https://twitter.com/patrickwardle)

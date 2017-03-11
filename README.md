@@ -22,7 +22,7 @@ A collection of OSX/iOS security related resources
 * [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
 * [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge) - Protecting against evil maid attacks
 
-## Malware sources
+## Malware sample sources
 
 1. [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
 * [Objective-See](https://objective-see.com/malware.html)
@@ -114,6 +114,7 @@ A collection of OSX/iOS security related resources
 * [Platypus](http://sveinbjorn.org/platypus) - GUI for generating .app bundles
 * [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers
 * [PoisonTap](https://github.com/samyk/poisontap)
+* [Chipsec](https://github.com/chipsec/chipsec) - System firmware checker by Intel
 
 ## Remote Access Toolkits
 1. [Empyre](https://github.com/EmpireProject/EmPyre)

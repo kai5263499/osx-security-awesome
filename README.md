@@ -1,4 +1,4 @@
-osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Travis](https://travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)
+osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 ========================
 
 A collection of OSX/iOS security related resources

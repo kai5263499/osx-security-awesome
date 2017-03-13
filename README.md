@@ -29,6 +29,7 @@ A collection of OSX/iOS security related resources
 * [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 * [Manwe Mac malware feed](http://macmalware.manwe.io) - Regularly updated fresh mac malware feed
 * [exploit-db.com](https://www.exploit-db.com) - Great place to look for local and remote exploits
+* [OSX crackmes](https://reverse.put.as/crackmes/)
 
 ## Forensics
 
@@ -93,6 +94,8 @@ A collection of OSX/iOS security related resources
 * [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
 * [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 * [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
+* [Ian Beer, Google Project Zero: “A deep-dive into the many flavors of IPC available on OS X.”](https://vimeo.com/127859750)
+* [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
 
 ## Useful tools and guides
 1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange

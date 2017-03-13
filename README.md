@@ -29,7 +29,6 @@ A collection of OSX/iOS security related resources
 * [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 * [Manwe Mac malware feed](http://macmalware.manwe.io) - Regularly updated fresh mac malware feed
 * [exploit-db.com](https://www.exploit-db.com) - Great place to look for local and remote exploits
-* [OSX crackmes](https://reverse.put.as/crackmes/)
 
 ## Forensics
 

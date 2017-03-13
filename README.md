@@ -93,7 +93,7 @@ A collection of OSX/iOS security related resources
 * [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
 * [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 * [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
-* [Ian Beer, Google Project Zero: “A deep-dive into the many flavors of IPC available on OS X.”](https://vimeo.com/127859750)
+* [Ian Beer, Google Project Zero: “A deep-dive into the many flavors of IPC available on OS X.”](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
 
 ## Useful tools and guides
@@ -111,7 +111,7 @@ A collection of OSX/iOS security related resources
 * [Lingon-X](https://www.peterborgapps.com/lingon/) - GUI for launchd
 * [Hopper](https://www.hopperapp.com/) - Excellent OSX debugger (requires license)
 * [Symhash](https://github.com/threatstream/symhash) - Python utility for generating imphash fingerprints for OSX binaries
-* [KisMac2](https://igrsoft.com/en/kismac2/) - Wireless scanning and packet capturing
+* [KisMac2](https://github.com/IGRSoft/KisMac2) - Wireless scanning and packet capturing
 * [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
 * [Platypus](http://sveinbjorn.org/platypus) - GUI for generating .app bundles
 * [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers

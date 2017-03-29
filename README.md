@@ -71,7 +71,7 @@ A collection of OSX/iOS security related resources
 * [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
 * [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
 * [Storing our Digital Lives - Mac Filesystems from MFS to APFS](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit)
-* [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/u/0/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
+* [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
 * [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
 * [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
 

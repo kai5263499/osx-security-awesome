@@ -4,16 +4,14 @@ osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 A collection of OSX/iOS security related resources
 
 ## News
-
-1. [The Safe Mac](http://www.thesafemac.com/)
+* [The Safe Mac](http://www.thesafemac.com/)
 * [Mac Virus](https://macviruscom.wordpress.com)
 * [Mac Security](http://macsecurity.net/news/)
 * [OSX Daily](http://osxdaily.com/) - Not secutiy-specific but it contains jailbreaking information which has security implications
 * [Intego Mac Security Blog](https://www.intego.com/mac-security-blog/)
 
 ## Hardening
-
-1. [Launchd](http://www.launchd.info/) - Everything you need to know about lunachd
+* [Launchd](http://www.launchd.info/) - Everything you need to know about lunachd
 * [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
 * [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
 * [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
@@ -23,16 +21,14 @@ A collection of OSX/iOS security related resources
 * [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge) - Protecting against evil maid attacks
 
 ## Malware sample sources
-
-1. [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
+* [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
 * [Objective-See](https://objective-see.com/malware.html)
 * [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 * [Manwe Mac malware feed](http://macmalware.manwe.io) - Regularly updated fresh mac malware feed
 * [exploit-db.com](https://www.exploit-db.com) - Great place to look for local and remote exploits
 
 ## Forensics
-
-1. [Artefacts for Mac OSX](http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1) - Locations of sensitive files
+* [Artefacts for Mac OSX](http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1) - Locations of sensitive files
 * [Pac4Mac](https://github.com/sud0man/pac4mac) - Forensics framework
 * [Inception](https://github.com/carmaa/inception) - Physical memory manipulation
 * [Volafox](https://github.com/n0fate/volafox) - Memory analysis toolkit
@@ -42,10 +38,11 @@ A collection of OSX/iOS security related resources
 * [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E) - OSX incident response at GitHub
 * [iOS Instrumentation without jailbreaking](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/) - How to debug an iOS application that you didn't create
 * [Certo](https://www.certosoftware.com/) - Paid service for analyzing the iTunes backup of your iOS device
+* [Blackbag Tech free tools](https://www.blackbagtech.com/resources/freetools.html)
+* [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](http://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 
 ## Reverse engineering
-
-1. [New OS X Book](http://www.newosxbook.com/)
+* [New OS X Book](http://www.newosxbook.com/)
 * [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101)
 * [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page)
 * [Reverse engineering OSX](https://reverse.put.as/)
@@ -54,7 +51,7 @@ A collection of OSX/iOS security related resources
 * [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
 
 ## Presentations and Papers
-1. [Writing Bad @$$ Malware for OSX](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
+* [Writing Bad @$$ Malware for OSX](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
 * [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
 * [Hack Mac OSX](https://dl.dropboxusercontent.com/u/31995154/HackMACOS-PUB/prez/HackMacOSX-GSDays2012.pdf)
 * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
@@ -73,9 +70,14 @@ A collection of OSX/iOS security related resources
 * [Attacking OSX for fun and profit tool set limiations frustration and table flipping Dan Tentler](https://www.youtube.com/watch?v=9T_2KYox9Us) - [Follow-up from target](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
 * [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
 * [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
+* [Storing our Digital Lives - Mac Filesystems from MFS to APFS](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit)
+* [Reverse engineering mac malware](https://drive.google.com/drive/u/0/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
+* [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/u/0/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
+* [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
+* [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
 
 ## Virus and exploit writeups
-1. [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
+* [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 * [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
 * [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
 * [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/) - Firmware bootkit
@@ -93,11 +95,12 @@ A collection of OSX/iOS security related resources
 * [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
 * [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 * [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
-* [Ian Beer, Google Project Zero: “A deep-dive into the many flavors of IPC available on OS X.”](https://www.youtube.com/watch?v=D1jNCy7-g9k)
+* [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
+* [Analysis of iOS.GuiInject Adware Library](https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/)
 
 ## Useful tools and guides
-1. [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
+* [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
 * [MacDBG](https://github.com/blankwall/MacDBG) - C and Python debugging framework for OSX
 * [bitcode_retriever](https://github.com/AlexDenisov/bitcode_retriever) - store and retrieve bitcode from Mach-O binary
 * [machotools](https://github.com/enthought/machotools) - retrieve and change information about mach-o files
@@ -119,16 +122,20 @@ A collection of OSX/iOS security related resources
 * [Chipsec](https://github.com/chipsec/chipsec) - System firmware checker by Intel
 
 ## Remote Access Toolkits
-1. [Empyre](https://github.com/EmpireProject/EmPyre)
+* [Empyre](https://github.com/EmpireProject/EmPyre)
 * [Bella](https://github.com/manwhoami/Bella)
 * [Stitch](https://nathanlopez.github.io/Stitch/)
 * [Pupy](https://github.com/n1nj4sec/pupy)
 
 ## Worth following on Twitter
-1. [@patrickwardle](https://twitter.com/patrickwardle)
+* [@patrickwardle](https://twitter.com/patrickwardle)
 * [@objective_see](https://twitter.com/objective_see)
 * [@0xAmit](https://twitter.com/0xAmit)
 * [@Morpheus______](https://twitter.com/Morpheus______)
 * [@osxreverser](https://twitter.com/osxreverser)
 * [@liucoj](https://twitter.com/liucoj)
 * [@osxdaily](https://twitter.com/osxdaily)
+* [@iamevltwin](https://twitter.com/iamevltwin)
+* [@claud_xiao](https://twitter.com/claud_xiao)
+* [@JPoForenso](https://twitter.com/JPoForenso)
+* [@patrickolsen](https://twitter.com/patrickolsen)

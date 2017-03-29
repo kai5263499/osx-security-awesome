@@ -53,7 +53,7 @@ A collection of OSX/iOS security related resources
 ## Presentations and Papers
 * [Writing Bad @$$ Malware for OSX](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
 * [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
-* [Hack Mac OSX](https://dl.dropboxusercontent.com/u/31995154/HackMACOS-PUB/prez/HackMacOSX-GSDays2012.pdf)
+* [Hack Mac OSX](http://www.gsdays.fr/wp-content/uploads/2012/06/HackMacOSX-GSDays2012.pdf)
 * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
 * [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs) - Fuzzing and exploiting OSX kernel bugs
 * [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
@@ -71,7 +71,6 @@ A collection of OSX/iOS security related resources
 * [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
 * [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
 * [Storing our Digital Lives - Mac Filesystems from MFS to APFS](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit)
-* [Reverse engineering mac malware](https://drive.google.com/drive/u/0/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
 * [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/u/0/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
 * [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
 * [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)

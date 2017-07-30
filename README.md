@@ -74,6 +74,7 @@ A collection of OSX/iOS security related resources
 * [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
 * [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
 * [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
+* [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf)
 
 ## Virus and exploit writeups
 * [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)

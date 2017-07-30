@@ -81,14 +81,14 @@ A collection of OSX/iOS security related resources
 * [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
 * [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/) - Firmware bootkit
 * [Mokes](http://thehackernews.com/2016/09/cross-platform-malware.html)
-* [MacKeeper](http://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
+* [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
 * [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 * [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
 * [Mac Defender](http://macsecurity.net/view/79/)
 * [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
 * [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/) - First OSX ransomware
 * [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
-* [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://sentinelone.com/blogs/reverse-engineering-mac-os-x/)
+* [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://sentinelone.com/2015/06/30/reverse-engineering-mac-os-x/)
 * [XAgent Mac Malware Used In APT-28](https://labs.bitdefender.com/2017/02/new-xagent-mac-malware-linked-with-the-apt28/) - [Samples](http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html)
 * [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
 * [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
@@ -96,7 +96,7 @@ A collection of OSX/iOS security related resources
 * [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
 * [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
-* [Analysis of iOS.GuiInject Adware Library](https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/)
+* [Analysis of iOS.GuiInject Adware Library](https://sentinelone.com/2016/11/08/analysis-ios-guiinject-adware-library/)
 * [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) - Gaining access through the wireless subsystem
 
 ## Useful tools and guides

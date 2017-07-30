@@ -97,6 +97,7 @@ A collection of OSX/iOS security related resources
 * [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
 * [Analysis of iOS.GuiInject Adware Library](https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/)
+* [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) - Gaining access through the wireless subsystem
 
 ## Useful tools and guides
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
@@ -119,6 +120,8 @@ A collection of OSX/iOS security related resources
 * [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers
 * [PoisonTap](https://github.com/samyk/poisontap)
 * [Chipsec](https://github.com/chipsec/chipsec) - System firmware checker by Intel
+* [Revisiting Mac OS X Kernel Rootkits by Phrack Magazine](http://phrack.org/issues/69/7.html) - A collection of OSX rootkit ideas
+* [iPhone Data Protection in Depth](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T2%20-%20Jean-Baptiste%20Be%CC%81drune%20&%20Jean%20Sigwald%20-%20iPhone%20Data%20Protection%20in%20Depth.pdf)
 
 ## Remote Access Toolkits
 * [Empyre](https://github.com/EmpireProject/EmPyre)

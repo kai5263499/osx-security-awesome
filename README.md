@@ -75,6 +75,7 @@ A collection of OSX/iOS security related resources
 * [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
 * [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
 * [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf)
+* [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
 
 ## Virus and exploit writeups
 * [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
@@ -123,6 +124,7 @@ A collection of OSX/iOS security related resources
 * [Chipsec](https://github.com/chipsec/chipsec) - System firmware checker by Intel
 * [Revisiting Mac OS X Kernel Rootkits by Phrack Magazine](http://phrack.org/issues/69/7.html) - A collection of OSX rootkit ideas
 * [iPhone Data Protection in Depth](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T2%20-%20Jean-Baptiste%20Be%CC%81drune%20&%20Jean%20Sigwald%20-%20iPhone%20Data%20Protection%20in%20Depth.pdf)
+* [EggShell surveilance tool](http://lucasjackson.me/index.php/eggshell/)
 
 ## Remote Access Toolkits
 * [Empyre](https://github.com/EmpireProject/EmPyre)

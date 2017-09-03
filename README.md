@@ -82,7 +82,7 @@ A collection of OSX/iOS security related resources
 * [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
 * [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
 * [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/) - Firmware bootkit
-* [Mokes](http://thehackernews.com/2016/09/cross-platform-malware.html)
+* [Mokes](https://thehackernews.com/2016/09/cross-platform-malware.html)
 * [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
 * [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 * [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
@@ -90,7 +90,7 @@ A collection of OSX/iOS security related resources
 * [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
 * [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/) - First OSX ransomware
 * [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
-* [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://sentinelone.com/2015/06/30/reverse-engineering-mac-os-x/)
+* [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://www.sentinelone.com/2015/06/30/reverse-engineering-mac-os-x/)
 * [XAgent Mac Malware Used In APT-28](https://labs.bitdefender.com/2017/02/new-xagent-mac-malware-linked-with-the-apt28/) - [Samples](http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html)
 * [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
 * [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)

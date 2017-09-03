@@ -98,7 +98,7 @@ A collection of OSX/iOS security related resources
 * [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
 * [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
-* [Analysis of iOS.GuiInject Adware Library](https://www.sentinelone.com/2016/11/08/analysis-ios-guiinject-adware-library/)
+* [Analysis of iOS.GuiInject Adware Library](https://www.sentinelone.com/blog/analysis-ios-guiinject-adware-library/)
 * [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) - Gaining access through the wireless subsystem
 
 ## Useful tools and guides

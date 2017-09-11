@@ -76,6 +76,8 @@ A collection of OSX/iOS security related resources
 * [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
 * [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf)
 * [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
+* [A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast](https://www.youtube.com/watch?v=_q_2mN8U91o)
+* [Jailbreaking Apple Watch at DEFCON-25](https://www.youtube.com/watch?v=eJpbi-Qz6Jc)
 
 ## Virus and exploit writeups
 * [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
@@ -100,6 +102,7 @@ A collection of OSX/iOS security related resources
 * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
 * [Analysis of iOS.GuiInject Adware Library](https://www.sentinelone.com/blog/analysis-ios-guiinject-adware-library/)
 * [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) - Gaining access through the wireless subsystem
+* [Reverse Engineering and Abusing Apple Call Relay Protocol](https://www.martinvigo.com/diy-spy-program-abusing-apple-call-relay-protocol/)
 
 ## Useful tools and guides
 * [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
@@ -124,13 +127,16 @@ A collection of OSX/iOS security related resources
 * [Chipsec](https://github.com/chipsec/chipsec) - System firmware checker by Intel
 * [Revisiting Mac OS X Kernel Rootkits by Phrack Magazine](http://phrack.org/issues/69/7.html) - A collection of OSX rootkit ideas
 * [iPhone Data Protection in Depth](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T2%20-%20Jean-Baptiste%20Be%CC%81drune%20&%20Jean%20Sigwald%20-%20iPhone%20Data%20Protection%20in%20Depth.pdf)
-* [EggShell surveilance tool](http://lucasjackson.me/index.php/eggshell/)
+* [Cycript](http://www.cycript.org/) - Remote control library for fuzz testing iOS apps
+* [ChaoticMarch](https://github.com/synack/chaoticmarch) - Blackbox fuzz testing for iOS apps (requires jailbreak)
+* [iOS backup decrypt script](https://stackoverflow.com/questions/1498342/how-to-decrypt-an-encrypted-apple-itunes-iphone-backup) - Contains a script for decrypting an encrypted iOS backup archive
 
 ## Remote Access Toolkits
 * [Empyre](https://github.com/EmpireProject/EmPyre)
 * [Bella](https://github.com/Trietptm-on-Security/Bella)
 * [Stitch](https://nathanlopez.github.io/Stitch/)
 * [Pupy](https://github.com/n1nj4sec/pupy)
+* [EggShell surveilance tool](http://lucasjackson.me/index.php/eggshell/) - Works on OSX and jailbroken iOS
 
 ## Worth following on Twitter
 * [@patrickwardle](https://twitter.com/patrickwardle)

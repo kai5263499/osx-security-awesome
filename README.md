@@ -19,6 +19,7 @@ A collection of OSX/iOS security related resources
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 * [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
 * [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge) - Protecting against evil maid attacks
+* [iOS Kernel source](https://github.com/apple/darwin-xnu)
 
 ## Malware sample sources
 * [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)

@@ -13,7 +13,7 @@ A collection of OSX/iOS security related resources
 ## Hardening
 * [Launchd](http://www.launchd.info/) - Everything you need to know about the launchd open-source service
 * [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
-* [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
+* [Google OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
 * [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
 * [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)

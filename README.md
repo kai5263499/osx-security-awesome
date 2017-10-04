@@ -22,49 +22,49 @@ A collection of OSX/iOS security related resources
   * [iOS Kernel source](#ios-kernel-source)
 
 * [**Malware sample sources**](#malware-sample-sources)
-  * [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
-  * [Objective-See](https://objective-see.com/malware.html)
-  * [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
-  * [Manwe Mac malware feed](http://macmalware.manwe.io) - Regularly updated fresh mac malware feed
-  * [exploit-db.com](https://www.exploit-db.com) - Great place to look for local and remote exploits
+  * [Alien Vault](#alien-vault)
+  * [Objective-See](#objecctive-see)
+  * [Contagio malware dump](#contagio-malware-dump)
+  * [Manwe Mac malware feed](#manwe-mac-malware-feed) 
+  * [exploit-db.com](https://www.exploit-db.com) 
 
 * [**Forensics**](#forensics)
-  * [Artefacts for Mac OSX](http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1) - Locations of sensitive files
-  * [Pac4Mac](https://github.com/sud0man/pac4mac) - Forensics framework
-  * [Inception](https://github.com/carmaa/inception) - Physical memory manipulation
-  * [Volafox](https://github.com/n0fate/volafox) - Memory analysis toolkit
-  * [Mac4n6](https://github.com/pstirparo/mac4n6) - Collection of OSX and iOS artifacts
-  * [Keychain analysis with Mac OSX Forensics](https://forensic.n0fate.com/wp-content/uploads/2012/07/Keychain-Analysis-with-Mac-OS-X-Memory-Forensics.pdf)
-  * [OSX Collector](https://github.com/Yelp/osxcollector) - Forensics utility developed by Yelp
-  * [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E) - OSX incident response at GitHub
-  * [iOS Instrumentation without jailbreaking](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/) - How to debug an iOS application that you didn't create
-  * [Certo](https://www.certosoftware.com/) - Paid service for analyzing the iTunes backup of your iOS device
-  * [Blackbag Tech free tools](https://www.blackbagtech.com/resources/freetools.html)
-  * [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](http://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
+  * [Artefacts for Mac OSX](#artefacts-for-mac-osx)
+  * [Pac4Mac](#pac4mac) 
+  * [Inception](#inception) 
+  * [Volafox](#volafox) 
+  * [Mac4n6](#mac4n6) 
+  * [Keychain analysis with Mac OSX Forensics](#keychain-analysis-with-mac-osx-forensics)
+  * [OSX Collector](#osx-collector) 
+  * [OSX incident response](#osx-incident-response)
+  * [iOS Instrumentation without jailbreaking](#ios-instrumentation-without-jailbreaking) 
+  * [Certo](#certo) 
+  * [Blackbag Tech free tools](#blackbag-tech-free-tools)
+  * [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](#osx-(mac)-memory-acquisition-and-analysis-using-osxpmem-and-volatility)
 
 * [**Reverse engineering**](#reverse-engineering)
-  * [New OS X Book](http://www.newosxbook.com/)
-  * [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101) 
-  * [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page)
-  * [Reverse engineering OSX](https://reverse.put.as/)
-  * [OSX crackmes](https://reverse.put.as/crackmes/) - A collection of puzzles to test your reverse engineering skills
-  * [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
-  * [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
+  * [New OS X Book](#new-os-x-book)
+  * [Collection of OSX reverse engineering resources](#collection-of-osx-reverse-engineering-resources) 
+  * [The iPhone Wiki](#the-iphone-wiki)
+  * [Reverse engineering OSX](#reverse-engineering-osx)
+  * [OSX crackmes](#osx-crackmes) 
+  * [Solving crackmes with LDPRELOAD](#solving-crackmes-with-ldpreload)
+  * [Introduction to Reverse Engineering Cocoa Applications](#introduction-to-reverse-engineering-cocoa-applications)
 
 * [**Presentations and Papers**](#presentations-and-papers)
-  * [Writing Bad @$$ Malware for OSX](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) - [Video](https://www.youtube.com/watch?v=fv4l9yAL2sU) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw)
-  * [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
-  * [Hack Mac OSX](http://www.gsdays.fr/wp-content/uploads/2012/06/HackMacOSX-GSDays2012.pdf)
-  * [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
-  * [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs) - Fuzzing and exploiting OSX kernel bugs
-  * [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
-  * [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
-  * [Practical iOS App Hacking](https://papers.put.as/papers/ios/2012/Mathieu-RENARD-GreHACK-Practical-iOS-App-Hacking.pdf)
-  * [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
+  * [Writing Bad @$$ Malware for OSX](#writing-bad-@$$-malware-for-osx) 
+  * [Methods of Malware Persistence on OSX](#methods-of-malware-persistence-on-osx)
+  * [Hack Mac OSX](#hack-mac-osx)
+  * [Advanced Mac OSX Rootkits](#advanced-mac-osx-rootkits)
+  * [The Python Bytes Your Apple](#the-python-bytes-your-apple)
+  * [Breaking iOS Code Signing](#breaking-ios-code-signing)
+  * [The Apple Sandbox - 5 years later](#the-apple-sandbox---5-years-later)
+  * [Practical iOS App Hacking](#practical-ios-app-hacking)
+  * [Behavioral Detection and Prevention of Malware on OS X](#behavioral-detection-and-prevention-of-malware-on-os-x)
   * [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](https://www.slideshare.net/nosillacast/security-on-the-mac)
-  * [Thunderstrike](https://trmm.net/Thunderstrike_31c3) - [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
-  * [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
-  * [Don't trust your eye, Apple graphics is compromised](https://speakerdeck.com/marcograss/dont-trust-your-eye-apple-graphics-is-compromised), security flaws in IOKit's graphics acceleration that lead to exploitation from the browser
+  * [Thunderstrike](#thunderstrike)
+  * [Direct Memory Attack the Kernel](#direct-memory-attack-the-kernel)
+  * [Don't trust your eye, Apple graphics is compromised](#don't-trust-your-eye-,-Apple-graphics-is-compromised)
   * [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](https://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c) 
   * [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
   * [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)

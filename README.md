@@ -1,158 +1,31 @@
 osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
+
 ========================
 
 A collection of OSX/iOS security related resources
 
 * [**News**](#news)
-  * [The Safe Mac](#the-safe-mac)
-  * [Mac Virus](#mac-virus)
-  * [Mac Security](#mac-security)
-  * [OSX Daily](#osx-daily) 
-  * [Intego Mac Security Blog](#intego-mac-security-blog)
-
+  
 * [**Hardening**](#hardening)
-  * [Launchd](#launchd)
-  * [OSX startup sequence](#osx-startup-sequence)
-  * [Gogle OSX hardening](#gogle-osx-hardening)
-  * [Run any command in a sandbox](#run-any-command-in-a-sandbox)
-  * [OSX El Capitan Hardening Guide](#osx-ei-capitan-hardening-guide)
-  * [Hipster DFIR on OSX](#hipster-dfir-on-osx)
-  * [OSX application hardening scorecard](#osx-application-hardening-scoreboard)
-  * [Hardening hardware and choosing a good BIOS](#hardening-hardware-and-choosing-a-good-bios) 
-  * [iOS Kernel source](#ios-kernel-source)
-
+  
 * [**Malware sample sources**](#malware-sample-sources)
-  * [Alien Vault](#alien-vault)
-  * [Objective-See](#objecctive-see)
-  * [Contagio malware dump](#contagio-malware-dump)
-  * [Manwe Mac malware feed](#manwe-mac-malware-feed) 
-  * [exploit-db.com](https://www.exploit-db.com) 
-
+  
 * [**Forensics**](#forensics)
-  * [Artefacts for Mac OSX](#artefacts-for-mac-osx)
-  * [Pac4Mac](#pac4mac) 
-  * [Inception](#inception) 
-  * [Volafox](#volafox) 
-  * [Mac4n6](#mac4n6) 
-  * [Keychain analysis with Mac OSX Forensics](#keychain-analysis-with-mac-osx-forensics)
-  * [OSX Collector](#osx-collector) 
-  * [OSX incident response](#osx-incident-response)
-  * [iOS Instrumentation without jailbreaking](#ios-instrumentation-without-jailbreaking) 
-  * [Certo](#certo) 
-  * [Blackbag Tech free tools](#blackbag-tech-free-tools)
-  * [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](#osx-(mac)-memory-acquisition-and-analysis-using-osxpmem-and-volatility)
-
+ 
 * [**Reverse engineering**](#reverse-engineering)
-  * [New OS X Book](#new-os-x-book)
-  * [Collection of OSX reverse engineering resources](#collection-of-osx-reverse-engineering-resources) 
-  * [The iPhone Wiki](#the-iphone-wiki)
-  * [Reverse engineering OSX](#reverse-engineering-osx)
-  * [OSX crackmes](#osx-crackmes) 
-  * [Solving crackmes with LDPRELOAD](#solving-crackmes-with-ldpreload)
-  * [Introduction to Reverse Engineering Cocoa Applications](#introduction-to-reverse-engineering-cocoa-applications)
-
+  
 * [**Presentations and Papers**](#presentations-and-papers)
-  * [Writing Bad @$$ Malware for OSX](#writing-bad-@$$-malware-for-osx) 
-  * [Methods of Malware Persistence on OSX](#methods-of-malware-persistence-on-osx)
-  * [Hack Mac OSX](#hack-mac-osx)
-  * [Advanced Mac OSX Rootkits](#advanced-mac-osx-rootkits)
-  * [The Python Bytes Your Apple](#the-python-bytes-your-apple)
-  * [Breaking iOS Code Signing](#breaking-ios-code-signing)
-  * [The Apple Sandbox - 5 years later](#the-apple-sandbox---5-years-later)
-  * [Practical iOS App Hacking](#practical-ios-app-hacking)
-  * [Behavioral Detection and Prevention of Malware on OS X](#behavioral-detection-and-prevention-of-malware-on-os-x)
-  * [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI) - [Slides](https://www.slideshare.net/nosillacast/security-on-the-mac)
-  * [Thunderstrike](#thunderstrike)
-  * [Direct Memory Attack the Kernel](#direct-memory-attack-the-kernel)
-  * [Don't trust your eye, Apple graphics is compromised](#don't-trust-your-eye-,-Apple-graphics-is-compromised)
-  * [Fuzzing and Exploiting OSX Vulnerabilities for Fun and Profit Complementary Active & Passive Fuzzing](https://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c) 
-  * [Strolling into Ring-0 via I/O Kit Drivers](https://speakerdeck.com/patrickwardle/o-kit-drivers)
-  * [Juice Jacking](https://www.youtube.com/watch?v=TKAgemHyq8w)
-  * [Attacking OSX for fun and profit tool set limiations frustration and table flipping Dan Tentler](https://www.youtube.com/watch?v=9T_2KYox9Us) - [Follow-up from target](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
-  * [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
-  * [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
-  * [Storing our Digital Lives - Mac Filesystems from MFS to APFS](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit)
-  * [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
-  * [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
-  * [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
-  * [macOS/iOS Kernel Debugging and Heap Feng Shui](https://github.com/zhengmin1989/MyArticles/blob/master/PPT/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf)
-  * [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
-  * [A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast](https://www.youtube.com/watch?v=_q_2mN8U91o)
-  * [Jailbreaking Apple Watch at DEFCON-25](https://www.youtube.com/watch?v=eJpbi-Qz6Jc)
-
+  
+ 
 * [**Virus and exploit writeups**](#virus-and-exploit-writeups)
-  * [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/) - [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
-  * [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
-  * [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/) - [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
-  * [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/) - Firmware bootkit
-  * [Mokes](https://thehackernews.com/2016/09/cross-platform-malware.html)
-  * [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
-  * [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
-  * [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
-  * [Mac Defender](http://macsecurity.net/view/79/)
-  * [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
-  * [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/) - First OSX ransomware
-  * [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
-  * [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/) - EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://www.sentinelone.com/blog/reverse-engineering-mac-os-x/)
-  * [XAgent Mac Malware Used In APT-28](https://labs.bitdefender.com/2017/02/new-xagent-mac-malware-linked-with-the-apt28/) - [Samples](http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html)
-  * [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
-  *  [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
-  * [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
-  * [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
-  * [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
-  * [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
-  * [Analysis of iOS.GuiInject Adware Library](https://www.sentinelone.com/blog/analysis-ios-guiinject-adware-library/)
-  * [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/) - Gaining access through the wireless subsystem
-  * [Reverse Engineering and Abusing Apple Call Relay Protocol](https://www.martinvigo.com/diy-spy-program-abusing-apple-call-relay-protocol/)
-
+  
 * [**Useful tools and guides**](#useful-tools-and-guides)
-  * [jrswizzle](https://github.com/rentzsch/jrswizzle) - method interface exchange
-  * [MacDBG](https://github.com/blankwall/MacDBG) - C and Python debugging framework for OSX
-  * [bitcode_retriever](https://github.com/AlexDenisov/bitcode_retriever) - store and retrieve bitcode from Mach-O binary
-  * [machotools](https://github.com/enthought/machotools) - retrieve and change information about mach-o files
-  * [onyx-the-black-cat](https://github.com/gdbinit/onyx-the-black-cat) - kernel module for OSX to defeat anti-debugging protection
-  * [create-dmg](https://github.com/andreyvit/create-dmg) - CLI utility for creating and modifying DMG files
-  * [dmg2iso](https://sourceforge.net/projects/dmg2iso/?source=typ_redirect) - convert dmg to iso
-  * [Infosec Homebrew](https://github.com/kai5263499/homebrew-infosec) - Homebrew tap for security-related utilities
-  * [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Collection of really useful shell commands
-  * [Keychain dump](https://github.com/juuso/keychaindump) - Dump keychain credentials
-  * [KnockKnock](https://objective-see.com/products/knockknock.html) - Listing startup items. Also includes VirusTotal information
-  * [Lingon-X](https://www.peterborgapps.com/lingon/) - GUI for launchd
-  * [Hopper](https://www.hopperapp.com/) - Excellent OSX debugger (requires license)
-  * [Symhash](https://github.com/threatstream/symhash) - Python utility for generating imphash fingerprints for OSX binaries
-  * [KisMac2](https://github.com/IGRSoft/KisMac2) - Wireless scanning and packet capturing
-  * [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) - Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
-  * [Platypus](http://sveinbjorn.org/platypus) - GUI for generating .app bundles
-  * [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg) - CLI for generating .pkg installers
-  * [PoisonTap](https://github.com/samyk/poisontap)
-  * [Chipsec](https://github.com/chipsec/chipsec) - System firmware checker by Intel
-  * [Revisiting Mac OS X Kernel Rootkits by Phrack Magazine](http://phrack.org/issues/69/7.html) - A collection of OSX rootkit ideas
-  * [iPhone Data Protection in Depth](http://conference.hackinthebox.org/hitbsecconf2011ams/materials/D2T2%20-%20Jean-Baptiste%20Be%CC%81drune%20&%20Jean%20Sigwald%20-%20iPhone%20Data%20Protection%20in%20Depth.pdf)
-  * [Cycript](http://www.cycript.org/) - Remote control library for fuzz testing iOS apps
-  * [ChaoticMarch](https://github.com/synack/chaoticmarch) - Blackbox fuzz testing for iOS apps (requires jailbreak)
-  * [iOS backup decrypt script](https://stackoverflow.com/questions/1498342/how-to-decrypt-an-encrypted-apple-itunes-iphone-backup) - Contains a script for decrypting an encrypted iOS backup archive
+  
 
 * [**Remote Access Toolkits**](#remote-access-toolkits)
-  * [Empyre](https://github.com/EmpireProject/EmPyre)
-  * [Bella](https://github.com/Trietptm-on-Security/Bella)
-  * [Stitch](https://nathanlopez.github.io/Stitch/)
-  * [Pupy](https://github.com/n1nj4sec/pupy)
-  * [EggShell surveilance tool](http://lucasjackson.me/index.php/eggshell/) - Works on OSX and jailbroken iOS
-
+ 
 * [**Worth following on Twitter**](#worth-following-on-twitter)
-  * [@patrickwardle](https://twitter.com/patrickwardle)
-  * [@objective_see](https://twitter.com/objective_see)
-  * [@0xAmit](https://twitter.com/0xAmit)
-  * [@Morpheus______](https://twitter.com/Morpheus______)
-  * [@osxreverser](https://twitter.com/osxreverser)
-  * [@liucoj](https://twitter.com/liucoj)
-  * [@osxdaily](https://twitter.com/osxdaily)
-  * [@iamevltwin](https://twitter.com/iamevltwin)
-  * [@claud_xiao](https://twitter.com/claud_xiao)
-  * [@JPoForenso](https://twitter.com/JPoForenso)
-  * [@patrickolsen](https://twitter.com/patrickolsen)
-
-
+  
 
 ------------------------------------------------------------------------------------------
 

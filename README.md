@@ -4,27 +4,27 @@ osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 A collection of OSX/iOS security related resources
 
 ## News
-* [The Safe Mac](http://www.thesafemac.com/)
-* [Mac Virus](https://macviruscom.wordpress.com)
-* [Mac Security](http://macsecurity.net/news/)
+* [The Safe Mac](http://www.thesafemac.com/) - News about MacOS's security issue/threat (like Malware and Hacker)
+* [Mac Virus](https://macviruscom.wordpress.com) - An anti-malware information page
+* [Mac Security](http://macsecurity.net/news/) - Focused on ransomware and virus. It also contain how to fix them 
 * [OSX Daily](http://osxdaily.com/) - Not security-specific but it contains jailbreaking information which has security implications
-* [Intego Mac Security Blog](https://www.intego.com/mac-security-blog/)
+* [Intego Mac Security Blog](https://www.intego.com/mac-security-blog/) - Blog for Mac's monthly security review. Also include some important tips on how to use Mac effectively.
 
 ## Hardening
 * [Launchd](http://www.launchd.info/) - Everything you need to know about the launchd open-source service
-* [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
-* [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
+* [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html) -Page that briefly describes the sequence of events that happen when Mac OS X boots.
+* [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet) - Securing a Large Global Mac Fleet 
 * [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
-* [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
+* [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md) - A github guide for helping you hardening OS X
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 * [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
 * [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge) - Protecting your hardware from "evil maid" attacks
-* [iOS Kernel source](https://github.com/apple/darwin-xnu)
+* [iOS Kernel source](https://github.com/apple/darwin-xnu) - XNU kernel part of the Darwin operating system for use in OS X and iOS operating systems
 
 ## Malware sample sources
-* [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
-* [Objective-See](https://objective-see.com/malware.html)
-* [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
+* [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed) A detailed, analyzed malware example
+* [Objective-See](https://objective-see.com/malware.html) - Downloadable malware sample
+* [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html) - A nice collection of ~100 Mac OS malware and Word document exploits carrying MacOS payload along with links for OSX malware analysis.
 * [Manwe Mac malware feed](http://macmalware.manwe.io) - Regularly updated fresh mac malware feed
 * [exploit-db.com](https://www.exploit-db.com) - Great place to look for local and remote exploits
 

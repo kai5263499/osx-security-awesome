@@ -7,18 +7,18 @@ A collection of OSX/iOS security related resources
 * [The Safe Mac](http://www.thesafemac.com/)
 * [Mac Virus](https://macviruscom.wordpress.com)
 * [Mac Security](http://macsecurity.net/news/)
-* [OSX Daily](http://osxdaily.com/) - Not secutiy-specific but it contains jailbreaking information which has security implications
+* [OSX Daily](http://osxdaily.com/) - Not security-specific but it contains jailbreaking information which has security implications
 * [Intego Mac Security Blog](https://www.intego.com/mac-security-blog/)
 
 ## Hardening
-* [Launchd](http://www.launchd.info/) - Everything you need to know about lunachd
+* [Launchd](http://www.launchd.info/) - Everything you need to know about the launchd open-source service
 * [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
 * [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
 * [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
 * [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 * [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
-* [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge) - Protecting against evil maid attacks
+* [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge) - Protecting your hardware from "evil maid" attacks
 * [iOS Kernel source](https://github.com/apple/darwin-xnu)
 
 ## Malware sample sources

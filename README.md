@@ -157,6 +157,7 @@ A collection of OSX/iOS security related resources
 ------------------------------------------------------------------------------------------
 
 ## News
+
 ---------------------------------------------------------------------
 ### [The Safe Mac](http://www.thesafemac.com/)
 ### [Mac Virus](https://macviruscom.wordpress.com)
@@ -171,7 +172,7 @@ A collection of OSX/iOS security related resources
 
  * Everything you need to know about the launchd open-source service
 ### [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
-### [Gogle OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
+### [Google OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
 ### [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
 ### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 ### [Hipster DFIR on OSX](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
@@ -188,6 +189,7 @@ A collection of OSX/iOS security related resources
 * Regularly updated fresh mac malware feed
 ### [exploit-db.com](https://www.exploit-db.com) 
 * Great place to look for local and remote exploits
+
 
 ## Forensics
 ### [Artefacts for Mac OSX](http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1) 

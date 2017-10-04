@@ -221,7 +221,7 @@ A collection of OSX/iOS security related resources
 ### [Bella](https://github.com/Trietptm-on-Security/Bella)
 ### [Stitch](https://nathanlopez.github.io/Stitch/)
 ### [Pupy](https://github.com/n1nj4sec/pupy)
-### [EggShell surveilance tool](http://lucasjackson.me/index.php/eggshell/) - Works on OSX and jailbroken iOS
+### [EggShell surveillance tool](http://lucasjackson.me/index.php/eggshell/) - Works on OSX and jailbroken iOS
 
 ## Worth following on Twitter
 * [@patrickwardle](https://twitter.com/patrickwardle)

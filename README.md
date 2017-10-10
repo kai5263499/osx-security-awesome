@@ -1,6 +1,6 @@
 osx-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Travis](https://api.travis-ci.org/kai5263499/osx-security-awesome.svg?branch=master)](https://travis-ci.org/kai5263499/osx-security-awesome)
 
-===========================
+------------------------------------------------------------------------------------------
 
 A collection of OSX/iOS security related resources
 
@@ -100,7 +100,7 @@ A collection of OSX/iOS security related resources
 ### [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
 
 ## Presentations and Papers
-### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU) 
+### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)
 * [Slides](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw).
 ### [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
 ### [Hack Mac OSX](http://www.gsdays.fr/wp-content/uploads/2012/06/HackMacOSX-GSDays2012.pdf)

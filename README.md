@@ -10,7 +10,7 @@ A collection of OSX/iOS security related resources
 
 * [**Malware sample sources**](#malware-sample-sources)
 
-* [**Forensics**](#forensics)
+* [**DFIR**](#digital-forensics-incident-response)
 
 * [**Reverse engineering**](#reverse-engineering)
 
@@ -49,14 +49,16 @@ A collection of OSX/iOS security related resources
 * Google's system hardening guide
 
 ### [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
+* How to for using OSX's sandbox system
+
 ### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * Hardening guide for El Capitan
 
 ### [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
+* Useful checklist for hardening systems
+
 ### [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge)
 * Protecting your hardware from "evil maid" attacks
-
-### [iOS Kernel source](https://github.com/apple/darwin-xnu)
 
 ## Malware sample sources
 ### [Objective-See](https://objective-see.com/malware.html)
@@ -66,7 +68,7 @@ A collection of OSX/iOS security related resources
 ### [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
-## Forensics
+## Digital Forensics / Incident Response (DFIR)
 ### [Artefacts for Mac OSX](http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1)
 * Locations of sensitive files
 ### [Pac4Mac](https://github.com/sud0man/pac4mac)
@@ -91,13 +93,19 @@ A collection of OSX/iOS security related resources
 
 ## Reverse engineering
 ### [New OS X Book](http://www.newosxbook.com/)
+* Frequently updated book on OSX internals
 ### [Collection of OSX reverse engineering resources](https://github.com/michalmalik/osx-re-101)
+* Another Awesome-style list dedicated to OSX reverse engineering resources
 ### [The iPhone Wiki](https://www.theiphonewiki.com/wiki/Main_Page)
 ### [Reverse engineering OSX](https://reverse.put.as/)
 ### [OSX crackmes](https://reverse.put.as/crackmes/)
 * A collection of puzzles to test your reverse engineering skills
 ### [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
+* Various code cracking challenges
 ### [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
+* Walkthrough for Coca applications
+### [iOS Kernel source](https://github.com/apple/darwin-xnu)
+* Source code for iOS kernel
 
 ## Presentations and Papers
 ### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)

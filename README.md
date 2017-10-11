@@ -122,9 +122,6 @@ A collection of OSX/iOS security related resources
 ### [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI)
 * [Slides](https://www.slideshare.net/nosillacast/security-on-the-mac)
 
-### [A deep-dive into the many flavors of IPC available on OS X](https://www.youtube.com/watch?v=D1jNCy7-g9k)
-* Deep dive into the interprocess communication and its design flaws
-
 ### [Thunderstrike](https://trmm.net/Thunderstrike_31c3)
 * [Video](https://www.youtube.com/watch?v=5BrdX7VdOr0), hacking Mac's extensible firmware interface (EFI)
 ### [Direct Memory Attack the Kernel](https://github.com/ufrisk/presentations/blob/master/DEFCON-24-Ulf-Frisk-Direct-Memory-Attack-the-Kernel-Final.pdf)
@@ -173,6 +170,7 @@ A collection of OSX/iOS security related resources
 ### [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 ### [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://jaq.alibaba.com/community/art/show?articleid=781)
 ### [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
+* Deep dive into the interprocess communication and its design flaws
 ### [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
 ### [Analysis of iOS.GuiInject Adware Library](https://www.sentinelone.com/blog/analysis-ios-guiinject-adware-library/)
 ### [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/)

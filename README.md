@@ -83,7 +83,7 @@ A collection of OSX/iOS security related resources
 ### [OSX Collector](https://github.com/Yelp/osxcollector)
 * Forensics utility developed by Yelp
 ### [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E)
-* OSX incident response at GitHub
+* OSX incident response at GitHub [Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 ### [iOS Instrumentation without jailbreaking](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/)
 * How to debug an iOS application that you didn't create
 ### [Certo](https://www.certosoftware.com/)
@@ -121,8 +121,6 @@ A collection of OSX/iOS security related resources
 ### [Behavioral Detection and Prevention of Malware on OS X](https://www.virusbulletin.com/blog/2016/september/paper-behavioural-detection-and-prevention-malware-os-x/)
 ### [Security on OSX and iOS](https://www.youtube.com/watch?v=fdxxPRbXPsI)
 * [Slides](https://www.slideshare.net/nosillacast/security-on-the-mac)
-### [Hipster DFIR on OSX](https://www.youtube.com/watch?v=gNJ10Kt4I9E)
-* Incident Response Tools So Cool You've Never Heard of Them. DFIR from one of GitHub's security engineers. [Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy)
 
 ### [A deep-dive into the many flavors of IPC available on OS X](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * Deep dive into the interprocess communication and its design flaws

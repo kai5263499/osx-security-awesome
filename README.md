@@ -10,7 +10,7 @@ A collection of OSX/iOS security related resources
 
 * [**Malware sample sources**](#malware-sample-sources)
 
-* [**DFIR**](#digital-forensics-incident-response)
+* [**DFIR**](#digital-forensics--incident-response-dfir)
 
 * [**Reverse engineering**](#reverse-engineering)
 

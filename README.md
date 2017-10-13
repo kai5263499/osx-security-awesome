@@ -30,13 +30,23 @@ A collection of OSX/iOS security related resources
 ## News
 
 ---------------------------------------------------------------------
-### [The Safe Mac](http://www.thesafemac.com/)
 ### [Mac Virus](https://macviruscom.wordpress.com)
-### [Mac Security](http://macsecurity.net/news/)
-### [OSX Daily](http://osxdaily.com/)
-* Not strictly security-specific but it contains jailbreaking information which has security implications
+* Frequently updated blog that provides a good summary of the latest unique mac malware.
 
 ### [Intego Mac Security Blog](https://www.intego.com/mac-security-blog/)
+* Intego's corporate Mac security blog often contains recent and in-depth analysis of mac malware and other security issues
+
+### [Objective-See](https://objective-see.com/blog.html)
+* Objective-See's blog often contains in-depth breakdowns of malware they've reverse engineered and vulnarabilities they've discovered.
+
+### [The Safe Mac](http://www.thesafemac.com/)
+* Resource to help educate Mac users about security issues. Contains historical as well as timely security updates.
+
+### [Mac Security](http://macsecurity.net/news/)
+* Another Mac security blog. This often includes more in-depth analysis of specific threats.
+
+### [OSX Daily](http://osxdaily.com/)
+* Not strictly security-specific but it contains jailbreaking information which has security implications
 
 ## Hardening
 ### [Launchd](http://www.launchd.info/)
@@ -176,6 +186,14 @@ A collection of OSX/iOS security related resources
 ### [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/)
 * Gaining access through the wireless subsystem
 ### [Reverse Engineering and Abusing Apple Call Relay Protocol](https://www.martinvigo.com/diy-spy-program-abusing-apple-call-relay-protocol/)
+* Details the discovery of a vulnerability in Apple's Call handoff between mobile and desktop through analyzing network traffic.
+### Exploiting the Wifi Stack on Apple Devices
+* Google's Project Zero series of articles that detail vulnerabilities in the wireless stack used by Apple Devices
+** [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 1)](https://googleprojectzero.blogspot.co.uk/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html)
+** [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)](https://googleprojectzero.blogspot.co.uk/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html)
+** [Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html)
+** [Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html)
+** [Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
 
 ## Useful tools and guides
 ### [jrswizzle](https://github.com/rentzsch/jrswizzle)

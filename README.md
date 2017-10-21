@@ -163,6 +163,8 @@ A collection of OSX/iOS security related resources
 * Firmware bootkit
 ### [Malware in firmware: how to exploit a false sense of security](https://www.welivesecurity.com/2017/10/19/malware-firmware-exploit-sense-security/)
 * A post on the resurgence of bootkits and how to defend against them
+### [Proton RAT](https://www.cybereason.com/labs-blog/labs-proton-b-what-this-mac-malware-actually-does)
+* Exploration of a Remote Access Toolkit
 
 ### [Mokes](https://thehackernews.com/2016/09/cross-platform-malware.html)
 ### [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)

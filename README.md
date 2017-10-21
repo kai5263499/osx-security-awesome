@@ -121,7 +121,6 @@ A collection of OSX/iOS security related resources
 ### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)
 * [Slides](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw).
 ### [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
-### [Hack Mac OSX](http://www.gsdays.fr/wp-content/uploads/2012/06/HackMacOSX-GSDays2012.pdf)
 ### [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
 ### [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs)  
 * Fuzzing and exploiting OSX kernel bugs

@@ -151,6 +151,10 @@ A collection of OSX/iOS security related resources
 ### [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
 ### [A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast](https://www.youtube.com/watch?v=_q_2mN8U91o)
 ### [Jailbreaking Apple Watch at DEFCON-25](https://www.youtube.com/watch?v=eJpbi-Qz6Jc)
+### [SandScout: Automatic Detection of Flaws in iOS Sandbox Profiles](https://www.trust.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TRUST/PubsPDF/sandscout-final-ccs-2016.pdf)
+* An exploration of the sandbox protections policies
+* [Presentation](https://www.youtube.com/watch?v=TnwXEDCIowQ)
+
 
 ## Virus and exploit writeups
 ### [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/)

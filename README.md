@@ -162,10 +162,9 @@ A collection of OSX/iOS security related resources
   execution
 * [Proof of concept](https://github.com/gkaindl/meltdown-poc)
 * [Apple's statement](https://support.apple.com/en-us/HT208394)
-### [Root hack](https://www.wired.com/story/macos-high-sierra-hack-root/)
+### [Why gets your root](https://www.synack.com/2017/11/29/why-gets-you-root/)
 * An Apple update introduced a bug where a blank password was set for root,
   allowing attackers to easily gain root access
-* [Why gets you root](https://www.synack.com/2017/11/29/why-gets-you-root/)
 ### [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/)
 * [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 ### [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)

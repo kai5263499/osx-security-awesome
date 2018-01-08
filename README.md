@@ -110,12 +110,14 @@ A collection of OSX/iOS security related resources
 ### [Reverse engineering OSX](https://reverse.put.as/)
 ### [OSX crackmes](https://reverse.put.as/crackmes/)
 * A collection of puzzles to test your reverse engineering skills
-### [Solving crackmes with LDPRELOAD](http://radare.today/posts/solving-crackmes-with-ldpreload/)
-* Various code cracking challenges
 ### [Introduction to Reverse Engineering Cocoa Applications](https://www.fireeye.com/blog/threat-research/2017/03/introduction_to_reve.html)
 * Walkthrough for Coca applications
 ### [iOS Kernel source](https://github.com/apple/darwin-xnu)
 * Source code for iOS kernel
+### [Reverse Engineering Challenges](https://challenges.re/)
+* Very good list of various crackme challenges that is categorized by level and OS
+### [Awesome Reversing](https://github.com/fdivrp/awesome-reversing/)
+* Awesome list dedicated to reversing
 
 ## Presentations and Papers
 ### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)
@@ -174,7 +176,7 @@ A collection of OSX/iOS security related resources
 * Firmware bootkit
 ### [Malware in firmware: how to exploit a false sense of security](https://www.welivesecurity.com/2017/10/19/malware-firmware-exploit-sense-security/)
 * A post on the resurgence of bootkits and how to defend against them
-### [Proton RAT](https://www.cybereason.com/labs-blog/labs-proton-b-what-this-mac-malware-actually-does)
+### [Proton RAT](https://www.cybereason.com/blog/labs-proton-b-what-this-mac-malware-actually-does)
 * Exploration of a Remote Access Toolkit
 
 ### [Mokes](https://thehackernews.com/2016/09/cross-platform-malware.html)
@@ -269,7 +271,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [Bella](https://github.com/Trietptm-on-Security/Bella)
 ### [Stitch](https://nathanlopez.github.io/Stitch/)
 ### [Pupy](https://github.com/n1nj4sec/pupy)
-### [EggShell surveillance tool](http://lucasjackson.me/index.php/eggshell/) - Works on OSX and jailbroken iOS
+### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) - Works on OSX and jailbroken iOS
 
 ## Worth following on Twitter
 * [@patrickwardle](https://twitter.com/patrickwardle)

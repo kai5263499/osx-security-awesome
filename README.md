@@ -164,6 +164,8 @@ A collection of OSX/iOS security related resources
   execution
 * [Proof of concept](https://github.com/gkaindl/meltdown-poc)
 * [Apple's statement](https://support.apple.com/en-us/HT208394)
+* [Measuring OSX meltdown patches performance](https://reverse.put.as/2018/01/07/measuring-osx-meltdown-patches-performance/)
+* [iPhone performance after Spectre patch](https://melv1n.com/iphone-performance-benchmarks-after-spectre-update/)
 ### [Why gets your root](https://www.synack.com/2017/11/29/why-gets-you-root/)
 * An Apple update introduced a bug where a blank password was set for root,
   allowing attackers to easily gain root access

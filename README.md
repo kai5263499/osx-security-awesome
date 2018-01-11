@@ -235,7 +235,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * convert dmg to iso
 ### [Infosec Homebrew](https://github.com/kai5263499/homebrew-infosec)
 * Homebrew tap for security-related utilities
-### [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
+### [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-macos-command-line)
 * Collection of really useful shell commands
 ### [Keychain dump](https://github.com/juuso/keychaindump)
 * Dump keychain credentials

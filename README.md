@@ -218,6 +218,10 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
   * [Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html)
   * [Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)
 
+### [ChaiOS bug](https://www.grahamcluley.com/chaios-bug-crash-ios-macos-messages/)
+* A message that crashes iMessage
+* Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
+
 ## Useful tools and guides
 ### [jrswizzle](https://github.com/rentzsch/jrswizzle)
 * method interface exchange
@@ -287,3 +291,4 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * [@claud_xiao](https://twitter.com/claud_xiao)
 * [@JPoForenso](https://twitter.com/JPoForenso)
 * [@patrickolsen](https://twitter.com/patrickolsen)
+* [@cheesecakeufo](https://twitter.com/cheesecakeufo)

@@ -271,6 +271,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Blackbox fuzz testing for iOS apps (requires jailbreak)
 ### [iOS backup decrypt script](https://stackoverflow.com/questions/1498342/how-to-decrypt-an-encrypted-apple-itunes-iphone-backup)
 * Contains a script for decrypting an encrypted iOS backup archive
+### [mac-apt](https://github.com/ydkhatri/mac_apt)
+* Mac Artifact Parsing Tool for processing full disk images and extracting useful information
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

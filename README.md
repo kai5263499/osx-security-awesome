@@ -100,6 +100,9 @@ A collection of OSX/iOS security related resources
 * Paid service for analyzing the iTunes backup of your iOS device
 ### [Blackbag Tech free tools](https://www.blackbagtech.com/resources/freetools.html)
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](http://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
+### [mac-apt](https://github.com/ydkhatri/mac_apt)
+* Mac Artifact Parsing Tool for processing full disk images and extracting useful information
+* The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics)
 
 ## Reverse engineering
 ### [New OS X Book](http://www.newosxbook.com/)
@@ -271,8 +274,6 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Blackbox fuzz testing for iOS apps (requires jailbreak)
 ### [iOS backup decrypt script](https://stackoverflow.com/questions/1498342/how-to-decrypt-an-encrypted-apple-itunes-iphone-backup)
 * Contains a script for decrypting an encrypted iOS backup archive
-### [mac-apt](https://github.com/ydkhatri/mac_apt)
-* Mac Artifact Parsing Tool for processing full disk images and extracting useful information
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

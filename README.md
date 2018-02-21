@@ -42,7 +42,7 @@ A collection of OSX/iOS security related resources
 ### [The Safe Mac](http://www.thesafemac.com/)
 * Resource to help educate Mac users about security issues. Contains historical as well as timely security updates.
 
-### [Mac Security](http://macsecurity.net/news/)
+### [Mac Security](https://macsecurity.net/news/)
 * Another Mac security blog. This often includes more in-depth analysis of specific threats.
 
 ### [OSX Daily](http://osxdaily.com/)
@@ -99,7 +99,7 @@ A collection of OSX/iOS security related resources
 ### [Certo](https://www.certosoftware.com/)
 * Paid service for analyzing the iTunes backup of your iOS device
 ### [Blackbag Tech free tools](https://www.blackbagtech.com/resources/freetools.html)
-### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](http://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
+### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 ### [mac-apt](https://github.com/ydkhatri/mac_apt)
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
 * The author also has a collection of [DFIR scripts](https://github.com/ydkhatri/MacForensics)
@@ -188,7 +188,7 @@ A collection of OSX/iOS security related resources
 ### [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
 ### [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 ### [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
-### [Mac Defender](http://macsecurity.net/view/79/)
+### [Mac Defender](https://macsecurity.net/view/79/)
 ### [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
 ### [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/)
 * First OSX ransomware

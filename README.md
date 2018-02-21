@@ -280,6 +280,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [Stitch](https://nathanlopez.github.io/Stitch/)
 ### [Pupy](https://github.com/n1nj4sec/pupy)
 ### [EggShell surveillance tool](https://github.com/neoneggplant/EggShell) - Works on OSX and jailbroken iOS
+### [EvilOSX](https://github.com/Marten4n6/EvilOSX) - Pure python post-exploitation toolkit
 
 ## Worth following on Twitter
 * [@patrickwardle](https://twitter.com/patrickwardle)

@@ -162,6 +162,7 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [A fun XNU infoleak](https://bazad.github.io/2018/03/a-fun-xnu-infoleak/)
 ### Meltdown
 * CPU flaw allowing kernel memory to be accessed by hijacking speculative
   execution

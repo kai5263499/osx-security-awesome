@@ -275,6 +275,10 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Blackbox fuzz testing for iOS apps (requires jailbreak)
 ### [iOS backup decrypt script](https://stackoverflow.com/questions/1498342/how-to-decrypt-an-encrypted-apple-itunes-iphone-backup)
 * Contains a script for decrypting an encrypted iOS backup archive
+### [Remote Packet Capture for iOS Devices](https://useyourloaf.com/blog/remote-packet-capture-for-ios-devices/)
+* Use a remote virtual interface to capture packets from a tethered iOS device
+* [Python utility](https://thrysoee.dk/iospcap/)
+* [Another python utility](https://github.com/gh2o/rvi_capture/blob/master/rvi_capture.py)
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

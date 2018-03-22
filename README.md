@@ -30,6 +30,9 @@ A collection of OSX/iOS security related resources
 ## News
 
 ---------------------------------------------------------------------
+### [iOS display bugs](https://docs.google.com/document/d/1TDCVavaqDJCFjcQxZsL6InzHxPEYWwMMMh9QtfRGjbY/edit)
+* Regularly updated list of iOS display bugs
+
 ### [Mac Virus](https://macviruscom.wordpress.com)
 * Frequently updated blog that provides a good summary of the latest unique mac malware.
 
@@ -162,6 +165,9 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
+* A flaw in Unified Logs leaks the password for encrypted APFS volumes
+
 ### [A fun XNU infoleak](https://bazad.github.io/2018/03/a-fun-xnu-infoleak/)
 ### Meltdown
 * CPU flaw allowing kernel memory to be accessed by hijacking speculative

@@ -165,6 +165,7 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
 ### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
 * A flaw in Unified Logs leaks the password for encrypted APFS volumes
 
@@ -233,6 +234,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [mac-a-mal](https://github.com/phdphuc/mac-a-mal)
+* Automated malware analysis on macOS
+* [Paper](https://www.blackhat.com/docs/asia-18/asia-18-Phuc-Mac-A-Mal-An%20Automated%20Framework%20for%20Mac%20Malware%20Hunting-wp.pdf)
 ### [jrswizzle](https://github.com/rentzsch/jrswizzle)
 * method interface exchange
 ### [MacDBG](https://github.com/blankwall/MacDBG)

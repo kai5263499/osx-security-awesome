@@ -64,6 +64,10 @@ A collection of OSX/iOS security related resources
 ### [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
 * How to for using OSX's sandbox system
 
+### [Sandblaster](https://github.com/malus-security/sandblaster)
+* Reversing the Apple sandbox
+* [Paper](https://arxiv.org/pdf/1608.04303.pdf)
+
 ### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * Hardening guide for El Capitan
 

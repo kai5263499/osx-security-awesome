@@ -169,7 +169,7 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
-### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124?gi=1faad3ebbdce)
+### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
 ### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
 * A flaw in Unified Logs leaks the password for encrypted APFS volumes
 

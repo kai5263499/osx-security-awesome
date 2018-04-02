@@ -52,6 +52,9 @@ A collection of OSX/iOS security related resources
 * Not strictly security-specific but it contains jailbreaking information which has security implications
 
 ## Hardening
+### [EFIgy](https://github.com/duo-labs/EFIgy)
+* A RESTful API and client that helps Apple Mac users determine if they are running the expected EFI firmware version given their Mac hardware and OS build version
+
 ### [Launchd](http://www.launchd.info/)
 * Everything you need to know about the launchd service
 

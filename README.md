@@ -77,7 +77,7 @@ A collection of OSX/iOS security related resources
 ### [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge)
 * Protecting your hardware from "evil maid" attacks
 
-### [Fortify](https://github.com/alichtman/fortify)
+### [Stronghold](https://github.com/alichtman/stronghold)
 * Easily configure Mac security settings from the terminal.
 
 ## Malware sample sources

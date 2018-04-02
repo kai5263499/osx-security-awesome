@@ -80,6 +80,9 @@ A collection of OSX/iOS security related resources
 ### [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge)
 * Protecting your hardware from "evil maid" attacks
 
+### [Stronghold](https://github.com/alichtman/stronghold)
+* Easily configure Mac security settings from the terminal.
+
 ## Malware sample sources
 ### [Objective-See](https://objective-see.com/malware.html)
 * Curated list of malware samples. Use this list if you're looking for interesting samples to reverse engineer
@@ -137,7 +140,7 @@ A collection of OSX/iOS security related resources
 * [Slides](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw).
 ### [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)
 ### [Advanced Mac OSX Rootkits](https://www.blackhat.com/presentations/bh-usa-09/DAIZOVI/BHUSA09-Daizovi-AdvOSXRootkits-SLIDES.pdf)
-### [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs)  
+### [The Python Bytes Your Apple](https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs)
 * Fuzzing and exploiting OSX kernel bugs
 ### [Breaking iOS Code Signing](https://papers.put.as/papers/ios/2011/syscan11_breaking_ios_code_signing.pdf)
 ### [The Apple Sandbox - 5 years later](http://newosxbook.com/files/HITSB.pdf)
@@ -172,7 +175,7 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
-### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
+### [Leveraging emond on macOS for persistence](https://medium.com/m/global-identity?redirectUrl=https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
 ### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
 * A flaw in Unified Logs leaks the password for encrypted APFS volumes
 

@@ -172,6 +172,7 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [I can be Apple, and so can you](https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/)
 ### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
 ### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
 * A flaw in Unified Logs leaks the password for encrypted APFS volumes
@@ -241,6 +242,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [Are you really signed?](https://github.com/Sentinel-One/macos-are-you-really-signed)
+* Utility to test for code-sign bypass vulnerability
 ### [osx security growler](https://github.com/pirate/security-growler)
 * Mac menubar item that lets you know about security events on your system
 ### [mac-a-mal](https://github.com/phdphuc/mac-a-mal)

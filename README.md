@@ -241,6 +241,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [osx security growler](https://github.com/pirate/security-growler)
+* Mac menubar item that lets you know about security events on your system
 ### [mac-a-mal](https://github.com/phdphuc/mac-a-mal)
 * Automated malware analysis on macOS
 * [Paper](https://www.blackhat.com/docs/asia-18/asia-18-Phuc-Mac-A-Mal-An%20Automated%20Framework%20for%20Mac%20Malware%20Hunting-wp.pdf)

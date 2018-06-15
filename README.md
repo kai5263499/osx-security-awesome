@@ -32,6 +32,7 @@ A collection of OSX/iOS security related resources
 ---------------------------------------------------------------------
 ### [iOS vulnerability write-up](https://github.com/writeups/iOS)
 * A repository of iOS vulnerability write-ups as they are released
+* Also includes conference papers
 ### [iOS display bugs](https://docs.google.com/document/d/1TDCVavaqDJCFjcQxZsL6InzHxPEYWwMMMh9QtfRGjbY/edit)
 * Regularly updated list of iOS display bugs
 

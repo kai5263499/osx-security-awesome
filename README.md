@@ -176,6 +176,8 @@ A collection of OSX/iOS security related resources
 
 ## Virus and exploit writeups
 ### [I can be Apple, and so can you](https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/)
+* An exploration of a code signing vulnerability in macOS that has persisted for 11 years
+* [Creating signed and customized backdoored macos apps](https://medium.com/@adam.toscher/creating-signed-and-customized-backdoored-macos-applications-by-abusing-apple-developer-tools-b4cbf1a98187)
 ### [Leveraging emond on macOS for persistence](https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124)
 ### [APFS credential leak vulnerability](https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp)
 * A flaw in Unified Logs leaks the password for encrypted APFS volumes

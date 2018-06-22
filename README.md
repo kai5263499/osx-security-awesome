@@ -48,7 +48,7 @@ A collection of OSX/iOS security related resources
 ### [The Safe Mac](http://www.thesafemac.com/)
 * Resource to help educate Mac users about security issues. Contains historical as well as timely security updates.
 
-### [Mac Security](https://macsecurity.net/news/)
+### [Mac Security](http://macsecurity.net/news)
 * Another Mac security blog. This often includes more in-depth analysis of specific threats.
 
 ### [OSX Daily](http://osxdaily.com/)
@@ -92,7 +92,7 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
-### [Artefacts for Mac OSX](http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1)
+### [Artefacts for Mac OSX](http://sud0man.blogspot.com/2015/05/artefacts-for-mac-os-x.html?m=1)
 * Locations of sensitive files
 ### [Pac4Mac](https://github.com/sud0man/pac4mac)
 * Forensics framework
@@ -102,7 +102,7 @@ A collection of OSX/iOS security related resources
 * Memory analysis toolkit
 ### [Mac4n6](https://github.com/pstirparo/mac4n6)
 * Collection of OSX and iOS artifacts
-### [Keychain analysis with Mac OSX Forensics](https://forensic.n0fate.com/wp-content/uploads/2012/07/Keychain-Analysis-with-Mac-OS-X-Memory-Forensics.pdf)
+### [Keychain analysis with Mac OSX Forensics](https://repo.zenk-security.com/Forensic/Keychain%20Analysis%20with%20Mac%20OS%20X%20Memory%20Forensics.pdf)
 ### [OSX Collector](https://github.com/Yelp/osxcollector)
 * Forensics utility developed by Yelp
 ### [OSX incident response](https://www.youtube.com/watch?v=gNJ10Kt4I9E)
@@ -132,7 +132,7 @@ A collection of OSX/iOS security related resources
 * Source code for iOS kernel
 ### [Reverse Engineering Challenges](https://challenges.re/)
 * Very good list of various crackme challenges that is categorized by level and OS
-### [Awesome Reversing](https://github.com/fdivrp/awesome-reversing/)
+### [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
 * Awesome list dedicated to reversing
 
 ## Presentations and Papers
@@ -213,7 +213,7 @@ A collection of OSX/iOS security related resources
 ### [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
 ### [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 ### [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
-### [Mac Defender](https://macsecurity.net/view/79/)
+### [Mac Defender](http://macsecurity.net/view/79)
 ### [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
 ### [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/)
 * First OSX ransomware
@@ -230,7 +230,7 @@ A collection of OSX/iOS security related resources
 ### [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)
 * Deep dive into the interprocess communication and its design flaws
 
-### [PEGASUS iOS Kernel Vulnerability Explained](http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
+### [PEGASUS iOS Kernel Vulnerability Explained](https://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html)
 ### [Analysis of iOS.GuiInject Adware Library](https://www.sentinelone.com/blog/analysis-ios-guiinject-adware-library/)
 ### [Broadpwn](https://blog.exodusintel.com/2017/07/26/broadpwn/)
 * Gaining access through the wireless subsystem
@@ -240,8 +240,8 @@ A collection of OSX/iOS security related resources
 
 ### Exploiting the Wifi Stack on Apple Devices
 Google's Project Zero series of articles that detail vulnerabilities in the wireless stack used by Apple Devices
-  * [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 1)](https://googleprojectzero.blogspot.co.uk/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html)
-  * [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)](https://googleprojectzero.blogspot.co.uk/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html)
+  * [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 1)](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html)
+  * [Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)](https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html)
   * [Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html)
   * [Over The Air - Vol. 2, Pt. 2: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html)
   * [Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices](https://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html)

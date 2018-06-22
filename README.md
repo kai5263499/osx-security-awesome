@@ -136,6 +136,8 @@ A collection of OSX/iOS security related resources
 * Awesome list dedicated to reversing
 
 ## Presentations and Papers
+### [Automated Binary Analysis on iOS – A Case Study on Cryptographic Misuse in iOS Applications](https://pure.tugraz.at/ws/portalfiles/portal/17749575)
+* Examining iOS applications for poorly guarded secrets
 ### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)
 * [Slides](https://www.slideshare.net/Synack/writing-bad-malware-for-os-x) and [another related video](https://www.youtube.com/watch?v=oT8BKt_0cJw).
 ### [Methods of Malware Persistence on OSX](https://www.youtube.com/watch?v=rhhvZnA4VNY)

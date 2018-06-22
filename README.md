@@ -48,7 +48,7 @@ A collection of OSX/iOS security related resources
 ### [The Safe Mac](http://www.thesafemac.com/)
 * Resource to help educate Mac users about security issues. Contains historical as well as timely security updates.
 
-### [Mac Security](http://macsecurity.net/news)
+### [Mac Security](https://macsecurity.net/news)
 * Another Mac security blog. This often includes more in-depth analysis of specific threats.
 
 ### [OSX Daily](http://osxdaily.com/)
@@ -171,7 +171,7 @@ A collection of OSX/iOS security related resources
 ### [Billy Ellis iOS/OSX hacking YouTube channel](https://www.youtube.com/channel/UCk2sx_3FUkKvDGlIhdUQa8A)
 ### [A Technical Autopsy of the Apple - FBI Debate using iPhone forensics | SANS DFIR Webcast](https://www.youtube.com/watch?v=_q_2mN8U91o)
 ### [Jailbreaking Apple Watch at DEFCON-25](https://www.youtube.com/watch?v=eJpbi-Qz6Jc)
-### [SandScout: Automatic Detection of Flaws in iOS Sandbox Profiles](https://www.trust.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TRUST/PubsPDF/sandscout-final-ccs-2016.pdf)
+### [SandScout: Automatic Detection of Flaws in iOS Sandbox Profiles](http://www.icri-sc.org/fileadmin/user_upload/Group_TRUST/PubsPDF/sandscout-final-ccs-2016.pdf)
 * An exploration of the sandbox protections policies
 * [Presentation](https://www.youtube.com/watch?v=TnwXEDCIowQ)
 
@@ -213,7 +213,7 @@ A collection of OSX/iOS security related resources
 ### [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
 ### [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 ### [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
-### [Mac Defender](http://macsecurity.net/view/79)
+### [Mac Defender](https://macsecurity.net/view/79)
 ### [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
 ### [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/)
 * First OSX ransomware

@@ -177,6 +177,7 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js)
 ### [Brute force locked phone running iOS 11](http://www.redsn0w.us/2018/06/security-researcher-finds-way-to-brute.html)
 ### [There's Life in the Old Dog Yet: Tearing New Holes into Intel/iPhone Cellular Modems](https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/)
 * How the public warning system can be used as an attack vector 

@@ -254,6 +254,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [Xnumon](https://github.com/droe/xnumon)
+* Monitor macOS for malicious activity
 ### [DetectX](https://sqwarq.com/detectx/)
 * Audits system artifacts to help you identify unknown and novel threats
 ### [Are you really signed?](https://github.com/Sentinel-One/macos-are-you-really-signed)

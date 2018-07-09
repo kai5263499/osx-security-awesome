@@ -163,7 +163,8 @@ A collection of OSX/iOS security related resources
 * [Follow-up from target](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
 ### [Building an EmPyre with Python](https://www.youtube.com/watch?v=79qzgVTP3Yc)
 ### [PoisonTap](https://www.youtube.com/watch?v=Aatp5gCskvk)
-### [Storing our Digital Lives - Mac Filesystems from MFS to APFS](https://drive.google.com/file/d/0B7Ptn5b5q2FLMUdsLTdUMjBHVzQ/edit)
+### [Storing our Digital Lives - Mac Filesystems from MFS to APFS](https://www.youtube.com/watch?v=uMfmgcnrn24)
+* [slides](http://macadmins.psu.edu/files/2017/07/psumac2017-174-Storing-our-digital-lives-Mac-filesystems-from-MFS-to-APFS.key-254bf2y.pdf)
 ### [Collection of mac4en6 papers/presentations](https://drive.google.com/drive/folders/0B37-sa0Wh9_TdjVSbzRvMEVGQ2c)
 ### [The Underground Economy of Apple ID](https://www.youtube.com/watch?v=4acVKs9WPts)
 ### [iOS of Sauron: How iOS Tracks Everything You Do](https://www.youtube.com/watch?v=D6cSiHpvboI)
@@ -254,8 +255,9 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
-### [Xnumon](https://github.com/droe/xnumon)
+### [xnumon](https://www.roe.ch/xnumon)
 * Monitor macOS for malicious activity
+* [source](https://github.com/droe/xnumon)
 ### [DetectX](https://sqwarq.com/detectx/)
 * Audits system artifacts to help you identify unknown and novel threats
 ### [Are you really signed?](https://github.com/Sentinel-One/macos-are-you-really-signed)
@@ -330,7 +332,6 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * [@patrickwardle](https://twitter.com/patrickwardle)
 * [@objective_see](https://twitter.com/objective_see)
 * [@0xAmit](https://twitter.com/0xAmit)
-* [@Morpheus______](https://twitter.com/Morpheus______)
 * [@osxreverser](https://twitter.com/osxreverser)
 * [@liucoj](https://twitter.com/liucoj)
 * [@osxdaily](https://twitter.com/osxdaily)

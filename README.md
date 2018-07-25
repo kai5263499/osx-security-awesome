@@ -255,6 +255,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [Tutorial - emulate an iOS kernel in QEMU up to launchd and userspace](https://worthdoingbadly.com/xnuqemu2/)
+* Tutorial on getting an iOS kernel to run in QEMU
 ### [xnumon](https://www.roe.ch/xnumon)
 * Monitor macOS for malicious activity
 * [source](https://github.com/droe/xnumon)

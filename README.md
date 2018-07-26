@@ -86,7 +86,7 @@ A collection of OSX/iOS security related resources
 ## Malware sample sources
 ### [Objective-See](https://objective-see.com/malware.html)
 * Curated list of malware samples. Use this list if you're looking for interesting samples to reverse engineer
-### [Manwe Mac malware feed](http://macmalware.manwe.io)
+### [Manwe Mac malware feed](https://macmalware.manwe.io)
 * Regularly updated fresh mac malware feed
 ### [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
@@ -180,7 +180,7 @@ A collection of OSX/iOS security related resources
 ## Virus and exploit writeups
 ### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js)
 * [MachO tricks](http://iokit.racing/machotricks.pdf) - Appears to be slides from a presentation that ends with the CVE listed above
-### [Brute force locked phone running iOS 11](http://www.redsn0w.us/2018/06/security-researcher-finds-way-to-brute.html)
+### [Brute force locked phone running iOS 11](http://www.redsn0w.us/WeoXZ/2018/06/security-researcher-finds-way-to-brute.html)
 ### [There's Life in the Old Dog Yet: Tearing New Holes into Intel/iPhone Cellular Modems](https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/)
 * How the public warning system can be used as an attack vector 
 ### [I can be Apple, and so can you](https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/)
@@ -206,7 +206,7 @@ A collection of OSX/iOS security related resources
 ### [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
 ### [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/)
 * [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
-### [Thunderbolt](http://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/)
+### [Thunderbolt](https://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/)
 * Firmware bootkit
 ### [Malware in firmware: how to exploit a false sense of security](https://www.welivesecurity.com/2017/10/19/malware-firmware-exploit-sense-security/)
 * A post on the resurgence of bootkits and how to defend against them
@@ -341,4 +341,3 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * [@claud_xiao](https://twitter.com/claud_xiao)
 * [@JPoForenso](https://twitter.com/JPoForenso)
 * [@patrickolsen](https://twitter.com/patrickolsen)
-* [@cheesecakeufo](https://twitter.com/cheesecakeufo)

@@ -92,6 +92,7 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
+### [Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
 ### [Artefacts for Mac OSX](http://sud0man.blogspot.com/2015/05/artefacts-for-mac-os-x.html?m=1)
 * Locations of sensitive files
 ### [Pac4Mac](https://github.com/sud0man/pac4mac)
@@ -254,6 +255,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [jelbrektime](https://github.com/kai5263499/jelbrekTime)
+* Developer jailbreak for Apple Watch
 ### [Booting Secure](http://michaellynn.github.io/2018/07/27/booting-secure/)
 * Deep dive into Secure Boot on 2018 MacBook Pro
 ### [Tutorial - emulate an iOS kernel in QEMU up to launchd and userspace](https://worthdoingbadly.com/xnuqemu2/)

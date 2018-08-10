@@ -257,6 +257,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [Darling](https://github.com/darlinghq/darling)
+* Darwin/macOS emulation layer for Linux
 ### [Kemon](https://github.com/didi/kemon)
 * Open source kernel monitoring
 ### [jelbrektime](https://github.com/kai5263499/jelbrekTime)

@@ -92,6 +92,8 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
+### [Legacy Exec History](https://github.com/knightsc/legacy_exec_history)
+* OSQuery module to give you a report of 32bit processes running on a 10.14 machine
 ### [Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
 ### [Artefacts for Mac OSX](http://sud0man.blogspot.com/2015/05/artefacts-for-mac-os-x.html?m=1)
 * Locations of sensitive files

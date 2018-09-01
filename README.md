@@ -139,6 +139,8 @@ A collection of OSX/iOS security related resources
 * Awesome list dedicated to reversing
 
 ## Presentations and Papers
+### [Windshift APT](https://youtu.be/Mza6qv4mY9I?t=6h12m24s)
+* [Deep-dive write-up by Objective See](https://objective-see.com/blog/blog_0x38.html)
 ### [Automated Binary Analysis on iOS – A Case Study on Cryptographic Misuse in iOS Applications](https://pure.tugraz.at/ws/portalfiles/portal/17749575)
 * Examining iOS applications for poorly guarded secrets
 ### [Writing Bad @$$ Malware for OSX](https://www.youtube.com/watch?v=fv4l9yAL2sU)

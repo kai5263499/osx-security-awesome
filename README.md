@@ -92,7 +92,7 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
-### [Legacy Exec History](https://github.com/knightsc/legacy_exec_history)
+### [Legacy Exec History](https://github.com/knightsc/system_policy)
 * OSQuery module to give you a report of 32bit processes running on a 10.14 machine
 ### [Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
 ### [Artefacts for Mac OSX](http://sud0man.blogspot.com/2015/05/artefacts-for-mac-os-x.html?m=1)
@@ -139,7 +139,7 @@ A collection of OSX/iOS security related resources
 * Awesome list dedicated to reversing
 
 ## Presentations and Papers
-### [Windshift APT](https://youtu.be/Mza6qv4mY9I?t=6h12m24s)
+### [Windshift APT](https://www.youtube.com/watch?v=Mza6qv4mY9I&feature=youtu.be&t=6h12m24s)
 * [Deep-dive write-up by Objective See](https://objective-see.com/blog/blog_0x38.html)
 ### [Automated Binary Analysis on iOS – A Case Study on Cryptographic Misuse in iOS Applications](https://pure.tugraz.at/ws/portalfiles/portal/17749575)
 * Examining iOS applications for poorly guarded secrets

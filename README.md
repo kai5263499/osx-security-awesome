@@ -183,6 +183,8 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [blanket](https://github.com/bazad/blanket)
+* Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
 ### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js)
 * [MachO tricks](http://iokit.racing/machotricks.pdf) - Appears to be slides from a presentation that ends with the CVE listed above
 ### [There's Life in the Old Dog Yet: Tearing New Holes into Intel/iPhone Cellular Modems](https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/)

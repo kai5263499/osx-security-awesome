@@ -183,6 +183,8 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [kernelcache laundering](https://github.com/Synacktiv/kernelcache-laundering)
+* Load iOS12 kernelcaches and PAC code in IDA
 ### [blanket](https://github.com/bazad/blanket)
 * Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
 ### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js)

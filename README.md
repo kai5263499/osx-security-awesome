@@ -56,9 +56,6 @@ A collection of OSX/iOS security related resources
 
 ## Hardening
 
-### [xnumon](https://www.roe.ch/xnumon)
-* system monitoring agent
-
 ### [macops](https://github.com/google/macops)
 * Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment collected by Google
 

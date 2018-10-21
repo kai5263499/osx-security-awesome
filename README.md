@@ -56,8 +56,12 @@ A collection of OSX/iOS security related resources
 
 ## Hardening
 
+### [xnumon](https://www.roe.ch/xnumon)
+* system monitoring agent
+
 ### [macops](https://github.com/google/macops)
 * Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment collected by Google
+
 ### [SUpraudit](http://newosxbook.com/tools/supraudit.html)
 * System monitoring tool
 
@@ -145,6 +149,7 @@ A collection of OSX/iOS security related resources
 * Awesome list dedicated to reversing
 
 ## Presentations and Papers
+### [Area41 2018: Daniel Roethlisberger: Monitoring MacOS For Malware And Intrusions](https://www.youtube.com/watch?v=OSSkBgn_xJs&feature=youtu.be)
 ### [Windshift APT](https://www.youtube.com/watch?v=Mza6qv4mY9I&feature=youtu.be&t=6h12m24s)
 * [Deep-dive write-up by Objective See](https://objective-see.com/blog/blog_0x38.html)
 ### [Automated Binary Analysis on iOS – A Case Study on Cryptographic Misuse in iOS Applications](https://pure.tugraz.at/ws/portalfiles/portal/17749575)

@@ -58,6 +58,8 @@ A collection of OSX/iOS security related resources
 
 ### [macops](https://github.com/google/macops)
 * Utilities, tools, and scripts for managing and tracking a fleet of Macintoshes in a corporate environment collected by Google
+### [SUpraudit](http://newosxbook.com/tools/supraudit.html)
+* System monitoring tool
 
 ### [EFIgy](https://github.com/duo-labs/EFIgy)
 * A RESTful API and client that helps Apple Mac users determine if they are running the expected EFI firmware version given their Mac hardware and OS build version

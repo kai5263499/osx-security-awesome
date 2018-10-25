@@ -271,6 +271,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Looks similar to [previous](https://arstechnica.com/gadgets/2013/08/rendering-bug-crashes-os-x-and-ios-apps-with-string-of-arabic-characters/) [bugs](https://www.intego.com/mac-security-blog/crash-text-message-iphone/) rendering Arabic characters
 
 ## Useful tools and guides
+### [Mac@IBM](https://github.com/IBM/mac-ibm-enrollment-app)
+* Mac enrollment helper provided by IBM
 ### [mOSL](https://github.com/0xmachos/mOSL)
 * Audit and fix macOS High Sierra (10.13.x) security settings
 ### [Darling](https://github.com/darlinghq/darling)

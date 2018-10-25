@@ -234,7 +234,7 @@ A collection of OSX/iOS security related resources
 ### [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
 ### [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
 ### [Mac Defender](https://macsecurity.net/view/79-remove-mac-defender-virus-from-mac-os-x)
-### [Wire Lurker](http://researchcenter.paloaltonetworks.com/2014/11/wirelurker-new-era-os-x-ios-malware/)
+### [Wire Lurker](https://www.paloaltonetworks.com/resources/research/unit42-wirelurker-a-new-era-in-ios-and-os-x-malware.html)
 ### [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/)
 * First OSX ransomware
 ### [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)

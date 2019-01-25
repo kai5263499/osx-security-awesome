@@ -191,6 +191,8 @@ A collection of OSX/iOS security related resources
 
 
 ## Virus and exploit writeups
+### [Detailed Analysis of macOS/iOS Vulnerability CVE-2019-6231](https://www.fortinet.com/blog/threat-research/detailed-analysis-of-macos-ios-vulnerability-cve-2019-6231.html)
+* Exploration of QuartzCore/CoreAnimation flaw leading to a malicious application being able to read restricted memory.
 ### [kernelcache laundering](https://github.com/Synacktiv/kernelcache-laundering)
 * Load iOS12 kernelcaches and PAC code in IDA
 ### [blanket](https://github.com/bazad/blanket)

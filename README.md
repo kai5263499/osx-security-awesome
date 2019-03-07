@@ -99,6 +99,8 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
+### [AutoMacTC](https://github.com/CrowdStrike/automactc)
+* [Modular forensic triage collection framework](https://www.crowdstrike.com/blog/automating-mac-forensic-triage/) from CrowdStrike 
 ### [Legacy Exec History](https://github.com/knightsc/system_policy)
 * OSQuery module to give you a report of 32bit processes running on a 10.14 machine
 ### [Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)

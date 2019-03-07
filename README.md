@@ -373,3 +373,6 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * [@claud_xiao](https://twitter.com/claud_xiao)
 * [@JPoForenso](https://twitter.com/JPoForenso)
 * [@patrickolsen](https://twitter.com/patrickolsen)
+
+## Other OSX Awesome lists
+* [ashishb/osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome)

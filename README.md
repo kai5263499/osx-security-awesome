@@ -99,6 +99,8 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
+### [lynis](https://github.com/CISOfy/lynis/)
+* Security auditing tool for UNIX-based systems, including macOS
 ### [AutoMacTC](https://github.com/CrowdStrike/automactc)
 * [Modular forensic triage collection framework](https://www.crowdstrike.com/blog/automating-mac-forensic-triage/) from CrowdStrike 
 ### [Legacy Exec History](https://github.com/knightsc/system_policy)

@@ -220,9 +220,6 @@ A collection of OSX/iOS security related resources
 * [Apple's statement](https://support.apple.com/en-us/HT208394)
 * [Measuring OSX meltdown patches performance](https://reverse.put.as/2018/01/07/measuring-osx-meltdown-patches-performance/)
 * [iPhone performance after Spectre patch](https://www.gsmarena.com/spectre_and_meltdown_testing_performance_impact_on_iphone_8_plus-news-29132.php)
-### [Why gets your root](https://www.synack.com/2017/11/29/why-gets-you-root/)
-* An Apple update introduced a bug where a blank password was set for root,
-  allowing attackers to easily gain root access
 ### [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/)
 * [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 ### [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
@@ -302,7 +299,6 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Mac menubar item that lets you know about security events on your system
 ### [mac-a-mal](https://github.com/phdphuc/mac-a-mal)
 * Automated malware analysis on macOS
-* [Paper](https://www.blackhat.com/docs/asia-18/asia-18-Phuc-Mac-A-Mal-An%20Automated%20Framework%20for%20Mac%20Malware%20Hunting-wp.pdf)
 ### [jrswizzle](https://github.com/rentzsch/jrswizzle)
 * method interface exchange
 ### [MacDBG](https://github.com/blankwall/MacDBG)

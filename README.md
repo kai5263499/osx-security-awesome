@@ -74,7 +74,7 @@ A collection of OSX/iOS security related resources
 ### [Google OSX hardening](https://www.usenix.org/conference/lisa13/os-x-hardening-securing-large-global-mac-fleet)
 * Google's system hardening guide
 
-### [Run any command in a sandbox](https://www.davd.eu/os-x-run-any-command-in-a-sandbox/)
+### [Run any command in a sandbox](https://www.davd.io/os-x-run-any-command-in-a-sandbox/)
 * How to for using OSX's sandbox system
 
 ### [Sandblaster](https://github.com/malus-security/sandblaster)
@@ -84,7 +84,7 @@ A collection of OSX/iOS security related resources
 ### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * Hardening guide for El Capitan
 
-### [OSX application hardening scorecard](http://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
+### [OSX application hardening scorecard](https://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
 * Useful checklist for hardening systems
 
 ### [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge)
@@ -335,7 +335,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Wireless scanning and packet capturing
 ### [Passive fuzz framework](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
 * Framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
-### [Platypus](http://sveinbjorn.org/platypus)
+### [Platypus](https://sveinbjorn.org/platypus)
 * GUI for generating .app bundles
 ### [createOSXinstallPkg](https://github.com/munki/createOSXinstallPkg)
 * CLI for generating .pkg installers

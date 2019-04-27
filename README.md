@@ -99,6 +99,9 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
+### [venator](https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56)
+* Python tool for proactive detection tool for malware and trojans
+* [Source](https://github.com/richiercyrus/Venator)
 ### [lynis](https://github.com/CISOfy/lynis/)
 * Security auditing tool for UNIX-based systems, including macOS
 ### [AutoMacTC](https://github.com/CrowdStrike/automactc)

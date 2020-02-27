@@ -47,13 +47,13 @@ A collection of OSX/iOS security related resources
 ### [Objective-See](https://objective-see.com/blog.html)
 * Objective-See's blog often contains in-depth breakdowns of malware they've reverse engineered and vulnarabilities they've discovered.
 
-### [The Safe Mac](http://www.thesafemac.com/)
+### [The Safe Mac](https://www.thesafemac.com/)
 * Resource to help educate Mac users about security issues. Contains historical as well as timely security updates.
 
 ### [Mac Security](https://macsecurity.net/news)
 * Another Mac security blog. This often includes more in-depth analysis of specific threats.
 
-### [OSX Daily](http://osxdaily.com/)
+### [OSX Daily](https://osxdaily.com/)
 * Not strictly security-specific but it contains jailbreaking information which has security implications
 
 ## Hardening
@@ -67,7 +67,7 @@ A collection of OSX/iOS security related resources
 ### [EFIgy](https://github.com/duo-labs/EFIgy)
 * A RESTful API and client that helps Apple Mac users determine if they are running the expected EFI firmware version given their Mac hardware and OS build version
 
-### [Launchd](http://www.launchd.info/)
+### [Launchd](https://www.launchd.info/)
 * Everything you need to know about the launchd service
 
 ### [OSX startup sequence](http://osxbook.com/book/bonus/ancient/whatismacosx/arch_startup.html)
@@ -85,9 +85,6 @@ A collection of OSX/iOS security related resources
 
 ### [OSX El Capitan Hardening Guide](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.11/ERNW_Hardening_OS_X_EL_Captain.md)
 * Hardening guide for El Capitan
-
-### [OSX application hardening scorecard](https://cyber-itl.org/blog-1/2016/9/12/a-closer-look-at-the-osx-continuum)
-* Useful checklist for hardening systems
 
 ### [Hardening hardware and choosing a good BIOS](https://media.ccc.de/v/30C3_-_5529_-_en_-_saal_2_-_201312271830_-_hardening_hardware_and_choosing_a_goodbios_-_peter_stuge)
 * Protecting your hardware from "evil maid" attacks
@@ -128,7 +125,7 @@ A collection of OSX/iOS security related resources
 * How to debug an iOS application that you didn't create
 ### [Certo](https://www.certosoftware.com/)
 * Paid service for analyzing the iTunes backup of your iOS device
-### [Blackbag Tech free tools](https://www.blackbagtech.com/resources/freetools.html)
+### [Blackbag Tech free tools](https://www.blackbagtech.com/resources/free-tools/)
 ### [OSX (Mac) Memory Acquisition and Analysis Using OSXpmem and Volatility](https://ponderthebits.com/2017/02/osx-mac-memory-acquisition-and-analysis-using-osxpmem-and-volatility/)
 ### [mac-apt](https://github.com/ydkhatri/mac_apt)
 * Mac Artifact Parsing Tool for processing full disk images and extracting useful information
@@ -200,7 +197,7 @@ A collection of OSX/iOS security related resources
 ## Virus and exploit writeups
 ### [Detailed Analysis of macOS/iOS Vulnerability CVE-2019-6231](https://www.fortinet.com/blog/threat-research/detailed-analysis-of-macos-ios-vulnerability-cve-2019-6231.html)
 * Exploration of QuartzCore/CoreAnimation flaw leading to a malicious application being able to read restricted memory.
-### [kernelcache laundering](https://github.com/Synacktiv/kernelcache-laundering)
+### [kernelcache laundering](https://github.com/Synacktiv-contrib/kernelcache-laundering)
 * Load iOS12 kernelcaches and PAC code in IDA
 ### [blanket](https://github.com/bazad/blanket)
 * Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
@@ -226,7 +223,7 @@ A collection of OSX/iOS security related resources
 ### [Flashback](https://www.cnet.com/news/more-than-600000-macs-infected-with-flashback-botnet/)
 * [Detailed analysis](https://www.intego.com/mac-security-blog/more-about-the-flashback-trojan-horse/)
 ### [Flashback pt 2](https://www.intego.com/mac-security-blog/flashback-botnet-is-adrift/)
-### [iWorm](http://www.thesafemac.com/iworm-method-of-infection-found/)
+### [iWorm](https://www.thesafemac.com/iworm-method-of-infection-found/)
 * [Detailed analysis](https://www.intego.com/mac-security-blog/iworm-botnet-uses-reddit-as-command-and-control-center/)
 ### [Thunderbolt](https://www.theregister.co.uk/2015/01/08/thunderstrike_shocks_os_x_with_first_firmware_bootkit/)
 * Firmware bootkit
@@ -237,19 +234,18 @@ A collection of OSX/iOS security related resources
 
 ### [Mokes](https://thehackernews.com/2016/09/cross-platform-malware.html)
 ### [MacKeeper](https://www.cultofmac.com/170522/is-mackeeper-really-a-scam/)
-### [OpinionSpy](http://www.thesafemac.com/opinionspy-is-back/)
+### [OpinionSpy](https://www.thesafemac.com/opinionspy-is-back/)
 ### [Elanor](https://blog.malwarebytes.com/cybercrime/2016/07/new-mac-backdoor-malware-eleanor/)
 ### [Mac Defender](https://macsecurity.net/view/79-remove-mac-defender-virus-from-mac-os-x)
 ### [Wire Lurker](https://www.paloaltonetworks.com/resources/research/unit42-wirelurker-a-new-era-in-ios-and-os-x-malware.html)
 ### [KeRanger](https://techcrunch.com/2016/03/07/apple-has-shut-down-the-first-fully-functional-mac-os-x-ransomware/)
 * First OSX ransomware
-### [Proof-of-concept USB attack](http://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
+### [Proof-of-concept USB attack](https://www.ehackingnews.com/2016/09/a-usb-device-can-steal-credentials-from.html)
 ### [Dark Jedi](https://reverse.put.as/2015/05/29/the-empire-strikes-back-apple-how-your-mac-firmware-security-is-completely-broken/)
 ### EFI attack that exploits a vulnerability in suspend-resume cycle [Sentinel One write-up](https://www.sentinelone.com/blog/reverse-engineering-mac-os-x/)
 ### [XAgent Mac Malware Used In APT-28](https://labs.bitdefender.com/2017/02/new-xagent-mac-malware-linked-with-the-apt28/)
 * [Samples](http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html)
 ### [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
-### [Root a Mac with a Rubber Ducky](http://patrickmosca.com/root-a-mac-in-10-seconds-or-less/)
 ### [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 ### [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher)
 

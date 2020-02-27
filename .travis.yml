@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list 'posts.specterops.io,www.fireeye.com,www.alienvault.com'
+  - awesome_bot README.md --white-list 'posts.specterops.io,www.fireeye.com,www.alienvault.com,www.blackbagtech.com,arstechnica.com'

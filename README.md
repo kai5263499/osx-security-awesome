@@ -30,6 +30,8 @@ A collection of OSX/iOS security related resources
 ## News
 
 ---------------------------------------------------------------------
+### [Linking a microphone](https://ubrigens.com/posts/linking_a_microphone.html)
+* The Story of CVE-2018-4184 or how a vulnearbility in OSX's Speech system allowed apps with access to the microphone to escape sandbox restrictions
 ### [iOS vulnerability write-up](https://github.com/writeups/iOS)
 * A repository of iOS vulnerability write-ups as they are released
 * Also includes conference papers

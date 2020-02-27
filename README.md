@@ -93,8 +93,6 @@ A collection of OSX/iOS security related resources
 ## Malware sample sources
 ### [Objective-See](https://objective-see.com/malware.html)
 * Curated list of malware samples. Use this list if you're looking for interesting samples to reverse engineer
-### [Manwe Mac malware feed](https://macmalware.manwe.io)
-* Regularly updated fresh mac malware feed
 ### [Alien Vault](https://www.alienvault.com/blogs/labs-research/os-x-malware-samples-analyzed)
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 

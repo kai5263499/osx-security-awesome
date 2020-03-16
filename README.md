@@ -96,6 +96,10 @@ A collection of OSX/iOS security related resources
 ### [Contagio malware dump](http://contagiodump.blogspot.com/2013/11/osx-malware-and-exploit-collection-100.html)
 
 ## Digital Forensics / Incident Response (DFIR)
+### APOLLO tool
+* Python tool for advanced forensics analysis
+* [Presentation slides](https://github.com/mac4n6/Presentations/blob/master/LaunchingAPOLLO/LaunchingAPOLLO.pdf)
+* [Source code](https://github.com/mac4n6/APOLLO)
 ### [venator](https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56)
 * Python tool for proactive detection tool for malware and trojans
 * [Source](https://github.com/richiercyrus/Venator)

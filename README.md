@@ -206,7 +206,7 @@ A collection of OSX/iOS security related resources
 ### [blanket](https://github.com/bazad/blanket)
 * Proof of concept for CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6
 ### [Proof of Concept for Remote Code Execution in WebContent](https://github.com/externalist/exploit_playground/blob/master/CVE-2018-4233/pwn_i8.js)
-* [MachO tricks](http://iokit.racing/machotricks.pdf) - Appears to be slides from a presentation that ends with the CVE listed above
+* [MachO tricks](https://iokit.racing/machotricks.pdf) - Appears to be slides from a presentation that ends with the CVE listed above
 ### [There's Life in the Old Dog Yet: Tearing New Holes into Intel/iPhone Cellular Modems](https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/)
 * How the public warning system can be used as an attack vector 
 ### [I can be Apple, and so can you](https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/)
@@ -250,7 +250,6 @@ A collection of OSX/iOS security related resources
 ### [XAgent Mac Malware Used In APT-28](https://labs.bitdefender.com/2017/02/new-xagent-mac-malware-linked-with-the-apt28/)
 * [Samples](http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html)
 ### [Juice Jacking](https://www.howtogeek.com/166497/htg-explains-what-is-juice-jacking-and-how-worried-should-you-be/)
-### [Hacking Mac with Empyre](http://www.lukeager.com/hacking-mac-empyre/)
 ### [Local Privilege Escalation for macOS 10.12.2 and XNU port Feng Shui](https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher)
 
 ### [Ian Beer, Google Project Zero: "A deep-dive into the many flavors of IPC available on OS X."](https://www.youtube.com/watch?v=D1jNCy7-g9k)

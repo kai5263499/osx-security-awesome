@@ -309,7 +309,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * store and retrieve bitcode from Mach-O binary
 ### [machotools](https://github.com/enthought/machotools)
 * retrieve and change information about mach-o files
-### [onyx-the-black-cat](https://github.com/gdbinit/onyx-the-black-cat)
+### [onyx-the-black-cat](https://github.com/acidanthera/onyx-the-black-cat) ([outdated original](https://github.com/gdbinit/onyx-the-black-cat))
 * kernel module for OSX to defeat anti-debugging protection
 ### [create-dmg](https://github.com/andreyvit/create-dmg)
 * CLI utility for creating and modifying DMG files

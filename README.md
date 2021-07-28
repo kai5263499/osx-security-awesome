@@ -353,6 +353,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Use a remote virtual interface to capture packets from a tethered iOS device
 * [Python utility](https://thrysoee.dk/iospcap/)
 * [Another python utility](https://github.com/gh2o/rvi_capture)
+### [Pareto Security](https://github.com/paretoSecurity/pareto-mac/)
+* A MenuBar app to automatically audit your Mac for basic security hygiene.
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

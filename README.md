@@ -355,6 +355,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * [Another python utility](https://github.com/gh2o/rvi_capture)
 ### [Pareto Security](https://paretosecurity.app/)
 * A MenuBar app to automatically audit your Mac for basic security hygiene.
+### [Mana Security](https://manasecurity.com/)
+* Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

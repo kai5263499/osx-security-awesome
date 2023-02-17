@@ -357,6 +357,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * A MenuBar app to automatically audit your Mac for basic security hygiene.
 ### [Mana Security](https://manasecurity.com/)
 * Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
+### [cnspec](https://cnspec.io/)
+* Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

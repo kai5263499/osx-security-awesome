@@ -359,6 +359,10 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * Vulnerability Management app for individuals. It helps to keep macOS and installed applications updated.
 ### [cnspec](https://cnspec.io/)
 * Open source vulnerability and misconfiguration scanning for macOS hosts + much more.
+### [Intro To IOS Malware Detection](https://8ksec.io/mobile-malware-analysis-part-4-intro-to-ios-malware-detection/)
+* iOS malware, its types, methods of gathering forensics information
+### [Ipsw Walkthrough](https://8ksec.io/ipsw-walkthrough-part-1-the-swiss-army-knife-for-ios-macos-security-research/)
+* Part one that covers basic uses
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

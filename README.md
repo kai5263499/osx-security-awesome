@@ -197,7 +197,6 @@ A collection of OSX/iOS security related resources
 * An exploration of the sandbox protections policies
 * [Presentation](https://www.youtube.com/watch?v=TnwXEDCIowQ)
 
-
 ## Virus and exploit writeups
 ### [Detailed Analysis of macOS/iOS Vulnerability CVE-2019-6231](https://www.fortinet.com/blog/threat-research/detailed-analysis-of-macos-ios-vulnerability-cve-2019-6231.html)
 * Exploration of QuartzCore/CoreAnimation flaw leading to a malicious application being able to read restricted memory.
@@ -363,6 +362,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * iOS malware, its types, methods of gathering forensics information
 ### [Ipsw Walkthrough](https://8ksec.io/ipsw-walkthrough-part-1-the-swiss-army-knife-for-ios-macos-security-research/)
 * Part one that covers basic uses
+### [Mobile CTF challenges](https://academy.8ksec.io/battle/)
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

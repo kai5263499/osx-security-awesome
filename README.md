@@ -362,7 +362,7 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * iOS malware, its types, methods of gathering forensics information
 ### [Ipsw Walkthrough](https://8ksec.io/ipsw-walkthrough-part-1-the-swiss-army-knife-for-ios-macos-security-research/)
 * Part one that covers basic uses
-### [Mobile CTF challenges](https://academy.8ksec.io/battle/)
+### [Mobile CTF challenges](https://8ksec.io/battle/)
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

@@ -367,6 +367,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 ### [Mobile CTF challenges](https://8ksec.io/battle/)
 ### [Lockpaw](https://github.com/sorkila/lockpaw)
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
+### [Wardlume](https://wardlume.github.io)
+* Locks a Mac's keyboard, mouse, and trackpad at the event-tap level while the screen stays visible. Sandboxed with no network entitlement; unlocks with Touch ID or Apple Watch.
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

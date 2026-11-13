@@ -369,6 +369,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 ### [Wardlume](https://wardlume.github.io)
 * Locks a Mac's keyboard, mouse, and trackpad at the event-tap level while the screen stays visible. Sandboxed with no network entitlement; unlocks with Touch ID or Apple Watch.
+### [OffSeq Pulse](https://pulse.offseq.com)
+* Device posture agent that checks FileVault, firewall, OS updates, screen lock and admin rights against NIS2 and CIS v8.1, with one-click fixes for the firewall, automatic updates and screen lock. Also runs on Windows and Linux; first 2 devices free.
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)

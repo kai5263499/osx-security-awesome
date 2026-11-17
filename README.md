@@ -369,6 +369,8 @@ Google's Project Zero series of articles that detail vulnerabilities in the wire
 * macOS menu bar screen guard that locks and unlocks your display with a hotkey. Open source, no telemetry.
 ### [Wardlume](https://wardlume.github.io)
 * Locks a Mac's keyboard, mouse, and trackpad at the event-tap level while the screen stays visible. Sandboxed with no network entitlement; unlocks with Touch ID or Apple Watch.
+### [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner)
+* Free native cleaner and uninstaller for Apple Silicon Macs (macOS 26+) with a Privacy Inspector: view and reset TCC permissions per app, take a snapshot of active network connections, and review browser extensions by permission risk. Also checks launch agents and login items for code-signing and notarization problems. Source-available (GPLv3 + Commons Clause), no telemetry.
 
 ## Remote Access Toolkits
 ### [Empyre](https://github.com/EmpireProject/EmPyre)
